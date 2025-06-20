@@ -5,14 +5,109 @@
 \providecommand{\abntbstabout}[1]{}
 \abntbstabout{1.52 }
 
-\bibitem[Andrade 1999]{andrade99}
-\abntrefinfo{Andrade}{ANDRADE}{1999}
-{ANDRADE, M.~M. de. \emph{Como preparar trabalhos para cursos de
-  p{\'o}s-gradua{\c c}\~ao}. 3. ed. S\~ao Paulo: Atlas, 1999.}
+\bibitem[Bachmann, Silveira e Martins 2023]{bachmann2023}
+\abntrefinfo{Bachmann, Silveira e Martins}{BACHMANN; SILVEIRA; MARTINS}{2023}
+{BACHMANN, J. ao E. C.~S.; SILVEIRA, I.~F.; MARTINS, V.~F. Project-based
+  learning in engineering education -- developing digital twins in a case
+  study.
+\emph{Proceedings of the Design Society}, v.~3, p. 1--10, 2023.}
 
-\bibitem[Gil 1991]{gil91}
-\abntrefinfo{Gil}{GIL}{1991}
-{GIL, A.~C. \emph{Como elaborar projetos de pesquisa}. 3. ed. S\~ao Paulo:
-  Atlas, 1991.}
+\bibitem[Barricelli, Casiraghi e Fogli 2019]{barricelli2019}
+\abntrefinfo{Barricelli, Casiraghi e Fogli}{BARRICELLI; CASIRAGHI; FOGLI}{2019}
+{BARRICELLI, B.~R.; CASIRAGHI, E.; FOGLI, D. A survey on digital twin:
+  Definitions, characteristics, applications, and design implications.
+\emph{IEEE Access}, v.~7, p. 167653--167671, 2019.}
+
+\bibitem[Duch, Groh e Allen 2001]{duch2001}
+\abntrefinfo{Duch, Groh e Allen}{DUCH; GROH; ALLEN}{2001}
+{DUCH, B.~J.; GROH, S.~E.; ALLEN, D.~E. \emph{The Power of Problem-Based
+  Learning: A Practical "How To" for Teaching Undergraduate Courses in Any
+  Discipline}. Sterling, VA: Stylus Publishing, 2001.}
+
+\bibitem[Fujii et al. 2022]{arakaki2022}
+\abntrefinfo{Fujii et al.}{FUJII et al.}{2022}
+{FUJII, T.~Y. et al. A digital twin architecture model applied with mlops
+  techniques to improve short-term energy consumption prediction.
+\emph{Machines}, v.~10, n.~1, p.~23, 2022.}
+
+\bibitem[Grieves 2014]{grieves2014}
+\abntrefinfo{Grieves}{GRIEVES}{2014}
+{GRIEVES, M. Digital twin: Manufacturing excellence through virtual factory
+  replication.
+\emph{Digital Manufacturing}, v.~1, p.~1--7, 2014.}
+
+\bibitem[Guo et al. 2020]{guo2020}
+\abntrefinfo{Guo et al.}{GUO et al.}{2020}
+{GUO, P. et al. A review of project-based learning in higher education: Student
+  outcomes and measures.
+\emph{International Journal of Educational Research}, v.~102, p. 101586, 2020.}
+
+\bibitem[Hmelo-Silver 2004]{hmelo2004}
+\abntrefinfo{Hmelo-Silver}{HMELO-SILVER}{2004}
+{HMELO-SILVER, C.~E. Problem-based learning: What and how do students learn?
+\emph{Educational Psychology Review}, v.~16, n.~3, p. 235--266, 2004.}
+
+\bibitem[{Instituto de Tecnologia e Liderança} 2024]{inteli2024}
+\abntrefinfo{{Instituto de Tecnologia e Liderança}}{{Instituto de Tecnologia e
+  Liderança}}{2024}
+{{Instituto de Tecnologia e Liderança}. \emph{Modelo Educacional Inteli:
+  Aprendizagem Baseada em Projetos na Formação de Líderes Tecnológicos}.
+  2024.
+Documento institucional.
+Material de referência sobre implementação de PBL em educação superior
+  tecnológica.}
+
+\bibitem[{ISO/IEC/IEEE} 2022]{iso42010}
+\abntrefinfo{{ISO/IEC/IEEE}}{{ISO/IEC/IEEE}}{2022}
+{{ISO/IEC/IEEE}. \emph{{ISO/IEC/IEEE 42010:2022 Software, systems and
+  enterprise — Architecture description}}.
+[S.l.], 2022. Standard.}
+
+\bibitem[Kolb 1984]{kolb1984}
+\abntrefinfo{Kolb}{KOLB}{1984}
+{KOLB, D.~A. Experiential learning: Experience as the source of learning and
+  development.
+Prentice Hall, Englewood Cliffs, 1984.}
+
+\bibitem[Lavado-Anguera, Velasco-Quintana e Terrón-López 2024]{lavado2024}
+\abntrefinfo{Lavado-Anguera, Velasco-Quintana e Terrón-López}{LAVADO-ANGUERA;
+  VELASCO-QUINTANA; TERRóN-LóPEZ}{2024}
+{LAVADO-ANGUERA, S.; VELASCO-QUINTANA, P.~J.; TERRóN-LóPEZ, M.~J.
+  Project-based learning (pbl) as an experiential pedagogical methodology in
+  engineering education: A review of the literature.
+\emph{Education Sciences}, v.~14, n.~6, p.~617, 2024.}
+
+\bibitem[Savery 2015]{savery2015}
+\abntrefinfo{Savery}{SAVERY}{2015}
+{SAVERY, J.~R. Overview of problem-based learning: Definitions and
+  distinctions.
+\emph{Essential Readings in Problem-Based Learning}, Purdue University Press,
+  p. 5--15, 2015.}
+
+\bibitem[Silveira e Martins 2024]{silveira2024panorama}
+\abntrefinfo{Silveira e Martins}{SILVEIRA; MARTINS}{2024}
+{SILVEIRA, I.~F.; MARTINS, V.~F. Panorama de digital twins na am{\'e}rica
+  latina.
+\emph{SBC Horizontes}, 2024.
+Dispon{\'\i}vel em:
+  $<$https:\-/\-/horizontes\-.sbc\-.org\-.br\-/index\-.php\-/2024\-/09\-/panorama-de-digital-twins-na-america-latina\-/$>$.}
+
+\bibitem[Tao et al. 2018]{tao2018}
+\abntrefinfo{Tao et al.}{TAO et al.}{2018}
+{TAO, F. et al. Digital twin-driven product design, manufacturing and service
+  with big data.
+\emph{The International Journal of Advanced Manufacturing Technology}, v.~94,
+  p. 3563--3576, 2018.}
+
+\bibitem[Thomas 2000]{thomas2000}
+\abntrefinfo{Thomas}{THOMAS}{2000}
+{THOMAS, J.~W. A review of research on project-based learning.
+\emph{San Rafael: Autodesk Foundation}, 2000.}
+
+\bibitem[Zhang e Ma 2023]{zhang2023}
+\abntrefinfo{Zhang e Ma}{ZHANG; MA}{2023}
+{ZHANG, L.; MA, Y. A study of the impact of project-based learning on student
+  learning effects: a meta-analysis study.
+\emph{Frontiers in Psychology}, v.~14, 2023.}
 
 \end{thebibliography}
