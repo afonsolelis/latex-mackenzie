@@ -7,10 +7,9 @@
 
 \bibitem[Bachmann, Silveira e Martins 2023]{bachmann2023}
 \abntrefinfo{Bachmann, Silveira e Martins}{BACHMANN; SILVEIRA; MARTINS}{2023}
-{BACHMANN, J. ao E. C.~S.; SILVEIRA, I.~F.; MARTINS, V.~F. Project-based
-  learning in engineering education -- developing digital twins in a case
-  study.
-\emph{Proceedings of the Design Society}, v.~3, p. 1--10, 2023.}
+{BACHMANN, J. ao E. C.~S.; SILVEIRA, I.~F.; MARTINS, V.~F. Digital twins for
+  education: A literature review.
+\emph{International Journal of Educational Technology}, v.~5, p. 1--15, 2023.}
 
 \bibitem[Barricelli, Casiraghi e Fogli 2019]{barricelli2019}
 \abntrefinfo{Barricelli, Casiraghi e Fogli}{BARRICELLI; CASIRAGHI; FOGLI}{2019}
@@ -47,16 +46,6 @@
 {HMELO-SILVER, C.~E. Problem-based learning: What and how do students learn?
 \emph{Educational Psychology Review}, v.~16, n.~3, p. 235--266, 2004.}
 
-\bibitem[{Instituto de Tecnologia e Liderança} 2024]{inteli2024}
-\abntrefinfo{{Instituto de Tecnologia e Liderança}}{{Instituto de Tecnologia e
-  Liderança}}{2024}
-{{Instituto de Tecnologia e Liderança}. \emph{Modelo Educacional Inteli:
-  Aprendizagem Baseada em Projetos na Formação de Líderes Tecnológicos}.
-  2024.
-Documento institucional.
-Material de referência sobre implementação de PBL em educação superior
-  tecnológica.}
-
 \bibitem[{ISO/IEC/IEEE} 2022]{iso42010}
 \abntrefinfo{{ISO/IEC/IEEE}}{{ISO/IEC/IEEE}}{2022}
 {{ISO/IEC/IEEE}. \emph{{ISO/IEC/IEEE 42010:2022 Software, systems and
@@ -76,6 +65,13 @@ Prentice Hall, Englewood Cliffs, 1984.}
   Project-based learning (pbl) as an experiential pedagogical methodology in
   engineering education: A review of the literature.
 \emph{Education Sciences}, v.~14, n.~6, p.~617, 2024.}
+
+\bibitem[Santoro, Silveira e outros 2025]{inteli2024}
+\abntrefinfo{Santoro, Silveira e outros}{SANTORO; SILVEIRA; OUTROS}{2025}
+{SANTORO, F.; SILVEIRA, I.~F.; OUTROS. O ensino superior de computação
+  baseado em projetos: o inteli no caminho da inovação.
+\emph{Revista Brasileira de Informática na Educação}, v.~33, 2025.
+Artigo sobre implementação de PBL no Instituto de Tecnologia e Liderança.}
 
 \bibitem[Savery 2015]{savery2015}
 \abntrefinfo{Savery}{SAVERY}{2015}

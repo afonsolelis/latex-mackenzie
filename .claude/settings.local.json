@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(sudo apt:*)",
+      "Bash(sudo apt install:*)",
+      "Bash(pdflatex:*)",
+      "Bash(bibtex:*)",
+      "Bash(mv:*)",
+      "Bash(rm:*)"
+    ],
+    "deny": []
+  }
+}

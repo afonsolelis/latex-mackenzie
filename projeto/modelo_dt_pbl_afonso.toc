@@ -11,7 +11,7 @@
 \contentsline {subsection}{\numberline {3.1}Aprendizagem Baseada em Projetos (PBL)}{10}{subsection.3.1}%
 \contentsline {subsection}{\numberline {3.2}Gêmeos Digitais (Digital Twins)}{12}{subsection.3.2}%
 \contentsline {subsection}{\numberline {3.3}Integração de PBL e Gêmeos Digitais}{14}{subsection.3.3}%
-\contentsline {subsubsection}{\numberline {3.3.1}Modelo de Referência: Inteli e a Aplicação Prática de PBL}{16}{subsubsection.3.3.1}%
+\contentsline {subsubsection}{\numberline {3.3.1}Modelo de PBL de Referência: Inteli e a Aplicação Prática de PBL}{16}{subsubsection.3.3.1}%
 \contentsline {section}{\numberline {4}MODELO PROPOSTO}{18}{section.4}%
 \contentsline {subsection}{\numberline {4.1}Arquitetura Conceitual do Modelo}{18}{subsection.4.1}%
 \contentsline {subsection}{\numberline {4.2}Componentes do Modelo}{19}{subsection.4.2}%

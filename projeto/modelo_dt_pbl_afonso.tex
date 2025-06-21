@@ -51,6 +51,35 @@ Em criação.
 {\bf Palavras-chave:} {\it palavra 1, 2, 3...}
 \end{flushleft}
 
+% GLOSSÁRIO
+\newpage
+\thispagestyle{plain}
+\begin{center}
+\large
+\textbf{GLOSSÁRIO}
+\end{center}
+\renewcommand{\baselinestretch}{1.0}
+\normalsize
+
+\begin{description}
+\item[API] \textit{Application Programming Interface} - Interface de Programação de Aplicações. Conjunto de definições e protocolos usados para desenvolver e integrar software de aplicações.
+
+\item[COVID-19] \textit{Coronavirus Disease 2019} - Doença causada pelo coronavírus SARS-CoV-2, identificada pela primeira vez em 2019.
+
+\item[IEEE] \textit{Institute of Electrical and Electronics Engineers} - Instituto de Engenheiros Eletricistas e Eletrônicos. Organização profissional dedicada ao avanço da tecnologia.
+
+\item[Inteli] Instituto de Tecnologia e Liderança - Instituição de ensino superior tecnológico que implementa metodologia PBL integrada com parceiros industriais.
+
+\item[IoT] \textit{Internet of Things} - Internet das Coisas. Rede de objetos físicos incorporados com sensores, software e outras tecnologias para conectar e trocar dados.
+
+\item[ISO/IEC/IEEE] \textit{International Organization for Standardization/International Electrotechnical Commission/Institute of Electrical and Electronics Engineers} - Organizações internacionais de padronização que desenvolvem normas técnicas em conjunto.
+
+\item[MLOps] \textit{Machine Learning Operations} - Práticas e ferramentas para operacionalizar e manter modelos de aprendizado de máquina em produção.
+
+\item[PBL] \textit{Project-Based Learning} - Aprendizagem Baseada em Projetos. Metodologia educacional que organiza o processo de ensino-aprendizagem em torno de projetos autênticos e complexos.
+
+\end{description}
+
 % SUMÁRIO
 \newpage
 \thispagestyle{empty}
@@ -191,7 +220,7 @@ No contexto da engenharia de software, o PBL encontra aplicação particularment
 
 A avaliação em contextos de PBL representa um desafio metodológico específico, uma vez que deve contemplar múltiplas dimensões do processo de aprendizagem. Os critérios convencionais de avaliação, tradicionalmente focados na verificação de conhecimentos declarativos através de provas e testes, apresentam características distintas dos requisitos de avaliação processual e contínua típicos do PBL. Torna-se necessário desenvolver instrumentos de avaliação que considerem a qualidade dos produtos desenvolvidos, a efetividade dos processos adotados, o desenvolvimento de competências transversais, e a capacidade de reflexão crítica sobre o próprio aprendizado \cite{hmelo2004}.
 
-Estudos recentes documentam resultados positivos da aplicação de PBL no desenvolvimento de competências específicas da engenharia de software. Bachmann et al. \cite{bachmann2023} apresentam um estudo de caso onde estudantes de engenharia desenvolveram protótipos físicos e virtuais utilizando conceitos de gêmeos digitais integrados à metodologia PBL. Os resultados sugerem melhorias na capacidade de análise de sistemas, no desenvolvimento de soluções inovadoras, e na integração de conhecimentos teóricos com aplicações práticas. Adicionalmente, observou-se o desenvolvimento de competências relacionadas ao trabalho colaborativo, comunicação técnica e gestão de projetos.
+Estudos recentes documentam resultados positivos da aplicação de PBL no desenvolvimento de competências específicas da engenharia de software. Bachmann et al. \cite{bachmann2023} apresentam uma revisão de literatura sobre aplicações de gêmeos digitais na educação, identificando oportunidades de integração desta tecnologia com metodologias pedagógicas ativas. Os resultados sugerem potencial para melhorias na capacidade de análise de sistemas, no desenvolvimento de soluções inovadoras, e na integração de conhecimentos teóricos com aplicações práticas.
 
 \subsection{Gêmeos Digitais (Digital Twins)}
 
@@ -203,7 +232,7 @@ Barricelli et al. \cite{barricelli2019} apresentam uma taxonomia abrangente que 
 
 A aplicação de gêmeos digitais no contexto educacional representa uma fronteira emergente com potencial transformador. Silveira e Martins \cite{silveira2024panorama} analisam o panorama de aplicação de gêmeos digitais na América Latina, destacando iniciativas pioneiras em educação superior que utilizam esta tecnologia para simulações realistas e interativas. Os autores enfatizam a distinção fundamental entre simulações estáticas tradicionais e gêmeos digitais dinâmicos, ressaltando como a capacidade de atualização em tempo real e interatividade contínua transforma as possibilidades pedagógicas.
 
-No âmbito específico da educação em engenharia, Bachmann et al. \cite{bachmann2023} demonstram a aplicação prática de gêmeos digitais integrados à metodologia PBL através de um estudo de caso onde estudantes desenvolvem simultaneamente protótipos físicos e suas representações virtuais correspondentes. Esta abordagem inovadora permite aos estudantes compreender não apenas os aspectos de implementação física, mas também as complexidades de modelagem virtual, sincronização de dados e análise comportamental. Os resultados sugerem melhorias na compreensão de conceitos de sistemas complexos, modelagem matemática e integração de tecnologias emergentes.
+No âmbito específico da educação em engenharia, Bachmann et al. \cite{bachmann2023} apresentam uma revisão abrangente sobre aplicações de gêmeos digitais na educação, analisando como esta tecnologia pode ser integrada a metodologias pedagógicas ativas. A revisão identifica oportunidades para que estudantes compreendam não apenas os aspectos de implementação, mas também as complexidades de modelagem virtual, sincronização de dados e análise comportamental. Os resultados da literatura sugerem potencial para melhorias na compreensão de conceitos de sistemas complexos, modelagem matemática e integração de tecnologias emergentes.
 
 A arquitetura de gêmeos digitais para aplicações educacionais requer considerações específicas que diferem de implementações industriais tradicionais. Arakaki et al. \cite{arakaki2022} apresentam um modelo arquitetural de gêmeo digital aplicado com técnicas MLOps que oferece insights relevantes para contextos educacionais. O modelo proposto integra coleta de dados em tempo real através de sensores IoT, processamento inteligente utilizando algoritmos de aprendizado de máquina, e interfaces de visualização que facilitam a compreensão de comportamentos complexos. Esta arquitetura sugere como gêmeos digitais podem transcender a mera representação visual, oferecendo capacidades analíticas e preditivas que podem enriquecer o processo educacional.
 
@@ -213,7 +242,7 @@ A personalização representa um aspecto particularmente relevante dos gêmeos d
 
 A convergência entre Aprendizagem Baseada em Projetos e tecnologia de Gêmeos Digitais pode representar uma oportunidade para transformar a educação em engenharia, particularmente na área de engenharia de software. Esta integração fundamenta-se na complementaridade natural entre a necessidade de projetos autênticos e complexos exigidos pelo PBL e as capacidades de modelagem, simulação e análise oferecidas pelos gêmeos digitais.
 
-Segundo a classificação estabelecida por Silveira \cite{silveira2024panorama} e aplicada no contexto educacional por Bachmann et al. \cite{bachmann2023}, a proposta de modelo de gêmeo digital para avaliação de projetos PBL enquadra-se em uma categoria híbrida que combina características de \textbf{gêmeo de processo} e \textbf{gêmeo de sistema}. Esta classificação justifica-se pela natureza abrangente do sistema proposto, que visa modelar tanto os processos de aprendizagem (atividades dos estudantes, evolução dos projetos, interações colaborativas e assimilação progressiva de conceitos) quanto os sistemas que suportam esses processos (infraestrutura tecnológica, ambientes de desenvolvimento, ferramentas colaborativas e plataformas integradas).
+Segundo a classificação estabelecida por Silveira \cite{silveira2024panorama} e discutida na literatura por Bachmann et al. \cite{bachmann2023}, a proposta de modelo de gêmeo digital para avaliação de projetos PBL enquadra-se em uma categoria híbrida que combina características de \textbf{gêmeo de processo} e \textbf{gêmeo de sistema}. Esta classificação justifica-se pela natureza abrangente do sistema proposto, que visa modelar tanto os processos de aprendizagem (atividades dos estudantes, evolução dos projetos, interações colaborativas e assimilação progressiva de conceitos) quanto os sistemas que suportam esses processos (infraestrutura tecnológica, ambientes de desenvolvimento, ferramentas colaborativas e plataformas integradas).
 
 O gêmeo híbrido de processos e sistemas proposto diferencia-se de implementações industriais convencionais por incorporar dimensões pedagógicas específicas que refletem tanto a complexidade dos processos educacionais quanto a interação com sistemas tecnológicos de suporte. Enquanto gêmeos industriais focam tipicamente em otimização de eficiência e redução de custos, o modelo educacional deve contemplar objetivos de aprendizagem multidimensionais, incluindo desenvolvimento de competências técnicas, transversais e metacognitivas, bem como a integração efetiva entre processos pedagógicos e sistemas tecnológicos.
 
@@ -225,9 +254,9 @@ Esta abordagem arquitetural permite uma compreensão holística e sistemática d
 
 A implementação prática desta integração requer a definição de métricas e indicadores específicos que atendam aos critérios de qualidade estabelecidos para instrumentos de avaliação educacional. Estes indicadores devem contemplar aspectos como confiabilidade (consistência temporal das medições), validade (correspondência entre o que é medido e os objetivos de aprendizagem), usabilidade (facilidade de interpretação por docentes e estudantes), objetividade (redução de subjetividade na avaliação) e normalização (comparabilidade entre diferentes contextos e projetos).
 
-A contribuição inovadora desta proposta reside na aplicação sistemática da tecnologia de gêmeos digitais especificamente para avaliação contínua e multidimensional tanto dos processos de aprendizagem quanto dos sistemas que os suportam em PBL. Enquanto iniciativas anteriores concentram-se na criação de protótipos físicos e virtuais como produtos de aprendizagem \cite{bachmann2023}, a presente proposta posiciona o gêmeo digital como instrumento de avaliação pedagógica abrangente, oferecendo capacidades analíticas para compreensão profunda dos processos de aprendizagem, análise de performance dos sistemas tecnológicos utilizados e fornecimento de feedback em tempo real para otimização tanto da experiência educacional quanto da infraestrutura de suporte.
+A contribuição inovadora desta proposta reside na aplicação sistemática da tecnologia de gêmeos digitais especificamente para avaliação contínua e multidimensional tanto dos processos de aprendizagem quanto dos sistemas que os suportam em PBL. Enquanto a literatura existente \cite{bachmann2023} concentra-se na análise de aplicações educacionais de gêmeos digitais de forma geral, a presente proposta posiciona o gêmeo digital como instrumento de avaliação pedagógica abrangente, oferecendo capacidades analíticas para compreensão profunda dos processos de aprendizagem, análise de performance dos sistemas tecnológicos utilizados e fornecimento de feedback em tempo real para otimização tanto da experiência educacional quanto da infraestrutura de suporte.
 
-\subsubsection{Modelo de Referência: Inteli e a Aplicação Prática de PBL}
+\subsubsection{Modelo de PBL de Referência: Inteli e a Aplicação Prática de PBL}
 
 O modelo educacional desenvolvido pelo Instituto de Tecnologia e Liderança (Inteli) \cite{inteli2024} apresenta um exemplo prático de implementação de PBL em educação superior tecnológica, servindo como base de referência para a compreensão das dimensões arquiteturais necessárias para modelagem através de gêmeos digitais de processos e sistemas.
 
@@ -237,7 +266,7 @@ Esta abordagem oferece um framework concreto para análise das visões arquitetu
 
 \textbf{Visão Estrutural no Modelo Inteli}: A organização estrutural compreende a arquitetura de parceiros educacionais (business drivers), onde empresas e organizações sociais atuam como provedores de desafios autênticos, criando um ecossistema de inovação que conecta o ambiente acadêmico às demandas reais do mercado. Os recursos tecnológicos incluem laboratórios de última geração, plataformas de desenvolvimento colaborativo e ambientes integrados que suportam o desenvolvimento de projetos complexos. A estrutura organizacional das equipes segue modelos de gestão ágil, com rotação de papéis e responsabilidades que simulam ambientes profissionais reais.
 
-\textbf{Visão Comportamental no Modelo Inteli}: As interações dinâmicas caracterizam-se pela colaboração intensiva entre estudantes, orientadores e parceiros externos, criando redes de aprendizagem que transcendem o ambiente acadêmico tradicional. O Teaching API (TAPI) proposto representa uma camada de integração que facilita a comunicação entre diferentes stakeholders do processo educacional, permitindo feedback contínuo e ajustes pedagógicos baseados em evidências de aprendizagem. As metodologias ativas promovem engajamento dos estudantes através de desafios autênticos que exigem solução criativa e aplicação prática de conhecimentos teóricos.
+\textbf{Visão Comportamental no Modelo Inteli}: As interações dinâmicas caracterizam-se pela colaboração intensiva entre estudantes, orientadores e parceiros externos, criando redes de aprendizagem que transcendem o ambiente acadêmico tradicional. As metodologias ativas promovem engajamento dos estudantes através de desafios autênticos que exigem solução criativa e aplicação prática de conhecimentos teóricos, com instrumentos de formalização que estruturam a comunicação entre diferentes stakeholders do processo educacional, permitindo feedback contínuo e ajustes pedagógicos baseados em evidências de aprendizagem.
 
 \textbf{Visão de Processo no Modelo Inteli}: A gestão de meta-projetos segue ciclos iterativos que incluem definição de problemas, desenvolvimento de soluções, implementação e reflexão metacognitiva. Cada meta-projeto é estruturado em marcos de entrega que permitem acompanhamento contínuo do progresso e identificação de oportunidades de intervenção pedagógica. Os processos de avaliação integram múltiplas dimensões, incluindo competências técnicas, colaboração efetiva e capacidade de comunicação, através de critérios que contemplam tanto produtos finais quanto processos de desenvolvimento.
 
@@ -257,7 +286,7 @@ O modelo proposto fundamenta-se na premissa de que os processos de aprendizagem 
 
 \begin{figure}[htbp]
 \centering
-\includegraphics[width=0.8\textwidth]{assets/f1.png}
+\includegraphics[width=0.8\textwidth]{../assets/f1.png}
 \caption{Arquitetura Conceitual do Modelo de Gêmeo Digital para Avaliação em PBL}
 \label{fig:modelo_proposto}
 \end{figure}

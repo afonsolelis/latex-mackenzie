@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(grep:*)",
+      "Bash(pdftotext:*)",
+      "Bash(rg:*)",
+      "Bash(cat:*)",
+      "Bash(ls:*)",
+      "Bash(pdfinfo:*)",
+      "Bash(python:*)",
+      "Bash(cp:*)",
+      "Bash(pdflatex:*)",
+      "Bash(bibtex:*)"
+    ],
+    "deny": []
+  }
+}
