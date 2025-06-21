@@ -5,7 +5,7 @@ Strings de busca otimizadas para o projeto "Modelo de Gêmeo Digital de Processo
 ## String de Busca Principal (Recomendada)
 
 ```
-TS=(("digital twin*" OR "digital replica*") AND ("software engineering" OR "software architecture" OR "software development" OR "software design") AND ("project-based learning" OR "project based learning" OR "PBL" OR "engineering education"))
+TS=(("digital twin*" OR "digital replica*") AND ("software engineering" OR "software architecture" OR "software development" OR "software design") AND ("project-based learning" OR "project based learning" OR "PBL" OR "software engineering education"))
 ```
 
 ## String de Busca Expandida (Arquitetura + Educação)
