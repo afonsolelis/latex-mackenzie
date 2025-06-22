@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2025.6.20)  20 JUN 2025 23:42
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2025.6.20)  21 JUN 2025 18:33
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -416,11 +416,11 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 3.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 3.
-)
+ [3] [4])
 \tf@toc=\write4
 \openout4 = `modelo_dt_pbl_afonso.toc'.
 
- [3]
+ [5]
 Overfull \hbox (3.60219pt too wide) in paragraph at lines 96--97
 \OT1/cmr/m/n/12 MA[], []2023[]; []LAVADO-ANGUERA; VELASCO-QUINTANA; TERR^^SoN-L
 ^^SoPEZ[], []2024[]; []GUO
@@ -439,22 +439,75 @@ em con-tex-tos edu-ca-ci-o-nais, observa-
  []
 
 [2] [3{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}] [4]
-[5] [6] [7] [8] [9] [10] [11] [12] [13] [14] [15] [16] [17]
-<../assets/f1.png, id=305, 790.152pt x 428.802pt>
+[5] [6] [7] [8] [9] [10] [11] [12] [13] [14] [15] [16] [17] [18] [19]
+Overfull \hbox (0.26515pt too wide) in paragraph at lines 309--310
+\OT1/cmr/m/n/12 ANGUERA; VELASCO-QUINTANA; TERR^^SoN-L^^SoPEZ[], []2024[]) e na
+s ca-pa-ci-da-des t^^Secnicas
+ []
+
+
+Overfull \hbox (10.39374pt too wide) in paragraph at lines 309--310
+\OT1/cmr/m/n/12 dos g^emeos di-gi-tais apli-ca-dos em con-tex-tos edu-ca-ci-o-n
+ais. A es-pe-ci-fica^^Xc~ao se-guiu os princ^^S^^Ppios
+ []
+
+[20] [21]
+Overfull \hbox (10.89966pt too wide) in paragraph at lines 333--334
+\OT1/cmr/m/n/12 de ins-tru-men-tos edu-ca-ci-o-nais, in-cluindo con-fi-a-bi-li-
+dade (con-sist^encia tem-po-ral das medi^^Xc~oes),
+ []
+
+[22]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 352.
+ [23] [24]
+<../assets/f1.png, id=642, 790.152pt x 428.802pt>
 File: ../assets/f1.png Graphic file (type png)
 <use ../assets/f1.png>
-Package pdftex.def Info: ../assets/f1.png  used on input line 289.
+Package pdftex.def Info: ../assets/f1.png  used on input line 393.
 (pdftex.def)             Requested size: 364.19667pt x 197.64389pt.
- [18] [19 <../assets/f1.png>]
-Overfull \hbox (4.98915pt too wide) in paragraph at lines 310--311
+ [25 <../assets/f1.png>] [26] [27]
+Overfull \hbox (4.30667pt too wide) in paragraph at lines 450--451
+\OT1/cmr/m/n/12 cluindo ar-qui-te-tura t^^Secnica, qua-li-dade de c^^Sodigo, fu
+n-ci-o-na-li-da-des im-ple-men-ta-das e evolu^^Xc~ao
+ []
+
+[28]
+Overfull \hbox (4.98915pt too wide) in paragraph at lines 468--469
 []\OT1/cmr/m/n/12 Conforme es-ta-be-le-cido pela norma ISO/IEC/IEEE 42010:2022 
 ([]ISO/IEC/IEEE[], []2022[]),
  []
 
-[20] [21]
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 355.
- [22] [23] (./modelo_dt_pbl_afonso.bbl [24]) [25]
+[29] [30]
+Overfull \hbox (29.68939pt too wide) in paragraph at lines 500--500
+[]\OT1/cmr/bx/n/17.28 CASE DE ES-TUDO: IMPLEMENTA[][]AO PR[]ATICA
+ []
+
+[31]
+Overfull \hbox (2.34006pt too wide) in paragraph at lines 524--525
+\OT1/cmr/m/n/12 mu-dan^^Xcas, es-trat^^Segias de bran-ching, pro-ces-sos de mer
+ge e pr^^Saticas de code re-view ([]PEREZ-
+ []
+
+
+Overfull \hbox (22.12283pt too wide) in paragraph at lines 524--525
+\OT1/cmr/m/n/12 RIVEROL et al.[], []2016[]). To-dos os da-dos co-le-ta-dos s~ao
+ ar-ma-ze-na-dos em for-mato JSON/Parquet
+ []
+
+[32] [33]
+Overfull \hbox (5.9386pt too wide) in paragraph at lines 548--549
+\OT1/cmr/m/n/12 ori-en-ta-do-res, ofe-re-cendo vi-si-bi-li-dade so-bre o pro-gr
+esso das equi-pes, iden-ti-fica^^Xc~ao au-tom^^Satica
+ []
+
+[34] [35] [36]
+Overfull \hbox (8.95917pt too wide) in paragraph at lines 619--620
+[]\OT1/cmr/m/it/12 Desenvolvimento do Pro-jeto (40 pon-tos)\OT1/cmr/m/n/12 : Av
+a-lia^^Xc~ao au-to-ma-ti-zada de as-pec-tos t^^Secnicos
+ []
+
+[37] [38] (./modelo_dt_pbl_afonso.bbl [39] [40]) [41] [42]
 (./modelo_dt_pbl_afonso.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
@@ -465,16 +518,16 @@ L3 programming layer <2024-01-22>
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
 Package rerunfilecheck Info: File `modelo_dt_pbl_afonso.out' has not changed.
-(rerunfilecheck)             Checksum: 84A3166F43B2D26D5C356A29EE2F43EA;4210.
+(rerunfilecheck)             Checksum: B071D85D7201ABF80CCE19909209EB7F;15423.
  ) 
 Here is how much of TeX's memory you used:
- 10757 strings out of 474222
- 170389 string characters out of 5748733
+ 10914 strings out of 474222
+ 172904 string characters out of 5748733
  1938975 words of memory out of 5000000
- 32788 multiletter control sequences out of 15000+600000
+ 32869 multiletter control sequences out of 15000+600000
  564231 words of font info for 56 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,9n,79p,1367b,577s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,9n,79p,1367b,594s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texl
@@ -482,10 +535,10 @@ ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/tex
 mf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist
 /fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/share/texmf/fonts/type1/public
 /cm-super/sfrm1200.pfb>
-Output written on modelo_dt_pbl_afonso.pdf (29 pages, 213537 bytes).
+Output written on modelo_dt_pbl_afonso.pdf (48 pages, 257945 bytes).
 PDF statistics:
- 400 PDF objects out of 1000 (max. 8388607)
- 349 compressed objects within 4 object streams
- 70 named destinations out of 1000 (max. 500000)
- 182 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 822 PDF objects out of 1000 (max. 8388607)
+ 748 compressed objects within 8 object streams
+ 146 named destinations out of 1000 (max. 500000)
+ 574 words of extra memory for PDF output out of 10000 (max. 10000000)
 

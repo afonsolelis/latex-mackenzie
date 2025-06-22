@@ -5,6 +5,11 @@
 \providecommand{\abntbstabout}[1]{}
 \abntbstabout{1.52 }
 
+\bibitem[Andrade 1999]{andrade99}
+\abntrefinfo{Andrade}{ANDRADE}{1999}
+{ANDRADE, M.~M. de. \emph{Como preparar trabalhos para cursos de
+  p{\'o}s-gradua{\c c}\~ao}. 3. ed. S\~ao Paulo: Atlas, 1999.}
+
 \bibitem[Bachmann, Silveira e Martins 2023]{bachmann2023}
 \abntrefinfo{Bachmann, Silveira e Martins}{BACHMANN; SILVEIRA; MARTINS}{2023}
 {BACHMANN, J. ao E. C.~S.; SILVEIRA, I.~F.; MARTINS, V.~F. Digital twins for
@@ -29,6 +34,11 @@
   techniques to improve short-term energy consumption prediction.
 \emph{Machines}, v.~10, n.~1, p.~23, 2022.}
 
+\bibitem[Gil 1991]{gil91}
+\abntrefinfo{Gil}{GIL}{1991}
+{GIL, A.~C. \emph{Como elaborar projetos de pesquisa}. 3. ed. S\~ao Paulo:
+  Atlas, 1991.}
+
 \bibitem[Grieves 2014]{grieves2014}
 \abntrefinfo{Grieves}{GRIEVES}{2014}
 {GRIEVES, M. Digital twin: Manufacturing excellence through virtual factory
@@ -52,6 +62,13 @@
   enterprise — Architecture description}}.
 [S.l.], 2022. Standard.}
 
+\bibitem[Kalliamvakou et al. 2014]{kalliamvakou2014}
+\abntrefinfo{Kalliamvakou et al.}{KALLIAMVAKOU et al.}{2014}
+{KALLIAMVAKOU, E. et al. How do centralized and distributed version control
+  systems impact software changes? In:  \emph{Proceedings of the 36th
+  International Conference on Software Engineering}. [S.l.]: ACM, 2014. p.
+  322--333.}
+
 \bibitem[Kolb 1984]{kolb1984}
 \abntrefinfo{Kolb}{KOLB}{1984}
 {KOLB, D.~A. Experiential learning: Experience as the source of learning and
@@ -65,6 +82,37 @@ Prentice Hall, Englewood Cliffs, 1984.}
   Project-based learning (pbl) as an experiential pedagogical methodology in
   engineering education: A review of the literature.
 \emph{Education Sciences}, v.~14, n.~6, p.~617, 2024.}
+
+\bibitem[Mahnic 2012]{mahnic2012}
+\abntrefinfo{Mahnic}{MAHNIC}{2012}
+{MAHNIC, V. A capstone course on agile software development using scrum.
+\emph{IEEE Transactions on Education}, IEEE, v.~55, n.~1, p. 99--106, 2012.}
+
+\bibitem[Parsons e MacCallum 2019]{parsons2019}
+\abntrefinfo{Parsons e MacCallum}{PARSONS; MACCALLUM}{2019}
+{PARSONS, D.; MACCALLUM, K. Agile methodology in education: A review.
+\emph{International Journal of Educational Technology in Higher Education},
+  Springer, v.~16, n.~1, p. 1--19, 2019.}
+
+\bibitem[Perez-Riverol et al. 2016]{perezriverol2016}
+\abntrefinfo{Perez-Riverol et al.}{PEREZ-RIVEROL et al.}{2016}
+{PEREZ-RIVEROL, Y. et al. Ten simple rules for taking advantage of git and
+  github.
+\emph{PLOS Computational Biology}, v.~12, n.~7, p. e1004668, 2016.}
+
+\bibitem[Romero e Ventura 2010]{romero2010}
+\abntrefinfo{Romero e Ventura}{ROMERO; VENTURA}{2010}
+{ROMERO, C.; VENTURA, S. Educational data mining: A review of the state of the
+  art.
+\emph{IEEE Transactions on Systems, Man, and Cybernetics, Part C: Applications
+  and Reviews}, IEEE, v.~40, n.~6, p. 601--618, 2010.}
+
+\bibitem[Romero e Ventura 2020]{romero2020}
+\abntrefinfo{Romero e Ventura}{ROMERO; VENTURA}{2020}
+{ROMERO, C.; VENTURA, S. Educational data mining and learning analytics: An
+  updated survey.
+\emph{Wiley Interdisciplinary Reviews: Data Mining and Knowledge Discovery},
+  Wiley, v.~10, n.~3, p. e1355, 2020.}
 
 \bibitem[Santoro, Silveira e outros 2025]{inteli2024}
 \abntrefinfo{Santoro, Silveira e outros}{SANTORO; SILVEIRA; OUTROS}{2025}

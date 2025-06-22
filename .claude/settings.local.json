@@ -6,7 +6,8 @@
       "Bash(pdflatex:*)",
       "Bash(bibtex:*)",
       "Bash(mv:*)",
-      "Bash(rm:*)"
+      "Bash(rm:*)",
+      "Bash(grep:*)"
     ],
     "deny": []
   }
