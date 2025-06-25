@@ -21,7 +21,7 @@
       "Bash(python3:*)",
       "Bash(pip:*)",
       "Bash(pip3:*)",
-      "Bash(jupyter:*)", 
+      "Bash(jupyter:*)",
       "Bash(pandoc:*)",
       "Bash(wget:*)",
       "Bash(curl:*)",
@@ -41,7 +41,12 @@
       "Bash(pwd:*)",
       "Bash(which:*)",
       "Bash(whereis:*)",
-      "Bash(tree:*)"
+      "Bash(tree:*)",
+      "WebFetch(domain:journals-sol.sbc.org.br)",
+      "WebFetch(domain:www.sbc.org.br)",
+      "WebFetch(domain:github.com)",
+      "mcp__ide__getDiagnostics",
+      "Bash(apt search:*)"
     ],
     "deny": []
   }
