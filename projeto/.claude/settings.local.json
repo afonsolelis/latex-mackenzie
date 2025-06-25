@@ -10,7 +10,11 @@
       "Bash(python:*)",
       "Bash(cp:*)",
       "Bash(pdflatex:*)",
-      "Bash(bibtex:*)"
+      "Bash(bibtex:*)",
+      "Bash(git add:*)",
+      "Bash(git rm:*)",
+      "Bash(rm:*)",
+      "Bash(find:*)"
     ],
     "deny": []
   }
