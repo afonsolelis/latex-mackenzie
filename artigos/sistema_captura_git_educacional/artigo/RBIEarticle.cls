@@ -47,13 +47,6 @@
 %\newcommand{\APACrefnote}[1]{\ifx\@empty#1\@empty\else[{#1}]\fi}
 %\usepackage{lipsum}	% texto aleatorio
 
-% Fix abstract names for different languages
-\AtBeginDocument{%
-  \addto\captionsbrazilian{\renewcommand{\abstractname}{Resumo}}%
-  \addto\captionsspanish{\renewcommand{\abstractname}{Resumen}}%
-  \addto\captionsenglish{\renewcommand{\abstractname}{Abstract}}%
-}
-
 
 
 %\RequirePackage{apacite} % para formatacao de referencias bibliograficas
@@ -325,7 +318,7 @@
 %=======================================================================
 \DeclareRobustCommand{\keywords}[1]{%
 	\par
-	\textbf{\keywordsname:\space}#1%
+	\textbf{\keywordsname:\space}%
 }
 
 %=======================================================================
