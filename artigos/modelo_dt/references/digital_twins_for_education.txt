@@ -1,0 +1,487 @@
+
+
+
+Systems Simulation discipline. Students are responsible for developing a Digital Twin of
+a  PLC  throughout  the  course.  It  was  observed  that  including  the  theme  can  generate
+increased  motivation,  as  well  as  accountability  for  the  student's  own  learning.  Within
+Robotics  University's  education,  Digital  Twins  are  being  used  to  virtualize  Training
+Centers for trainees and students. Due to the challenges of having a sufficient, in size and
+in adaptability laboratory to handle the capacity of training  and researching for students
+and  industrial  partners,  the  use  of  Digital  Twins  to  digitalize  a  Robotic  Industrial  Arm
+laboratory was performed by Erdei et al. (2022). The aim  of the study was to measure
+the gap from using a real laboratory against digital ones. The study was performed with
+students from different disciplines and at different levels of knowledge regarding robotic
+and  automation  technology  in  the  University  of  Debrecen  Faculty  of  Engineering  as
+shown in Figure 3.
+
+Figure 3.   Comparison between Virtual (DT) and Physical form for students training
+on an Industrial Robotic Arm system – source: [Erdei et al., 2022]
+  To  test  the  effectiveness  of  the  Virtual  training with  DT,  students  were  divided
+into two groups, one of them having the opportunity to use the Digital Twin created and
+the other only using paperwork. After performing the tasks shown in Fig. 3, students that
+had the opportunity to study using the DT, were more prepared and more knowledgeable,
+in  contrast  to  the  ones  only  using  paperwork  and  documents  who  had  much  more
+difficulty performing the tasks [Erdei et al., 2022].
+3.2 Digital Twins in Health Education
+The use of DT in Health Education appears to still be somewhat incipient, as
+demonstrated by the works found. Drummond and Gonsard (2024) conducted a scoping
+review that analyzed definitions and characteristics of patient Digital Twins for clinical
+use. They identified 86 articles, nearly all in preclinical phases. In this context, a Digital
+Twin was defined as "a visualizable digital replica of a patient, organ, or biological system
+containing specific multidimensional patient information." The authors classified Digital
+Twins  into  two  types:  simulation  and  monitoring,  with  applications  ranging  from
+personalized predictions to optimizing continuous care. Johnson et al. (2023) envision the
+use of DT in Health Education. In this context, the authors point out that Health Digital
+Twins (HDTs) can revolutionize personalized medical treatments by combining research
+knowledge  with  the  unique  patient  history  and  physiology.  Initial  examples  include
+XIII Congresso Brasileiro de Informática na Educação (CBIE 2024)
+XXXV Simpósio Brasileiro de Informática na Educação (SBIE 2024)
+727
+
+XIII Congresso Brasileiro de Informática na Educação (CBIE 2024)
+XXXV Simpósio Brasileiro de Informática na Educação (SBIE 2024)
+727
+
+
+simulations  of  the  heart  and  brain,  but  the  field's  evolution  should  encompass  cellular
+models, microbiota, and patient slices on multidisciplinary platforms. Thus, they predict
+that  HDTs  will  cover  all  medical  disciplines  and  the  entire  patient  journey,  improving
+medical practices, precision medicine, and surgery, as well as increasing patient
+autonomy for better overall health. In the work of Attaran and Celik (2023), the authors
+mention that Virtual Reality (VR) technology has had the potential for decades to be used
+in medical training, complementing and enhancing traditional health education. Thus, AI-
+enabled DTs, using the power of Virtual and Augmented Reality, can facilitate training
+and education for healthcare professionals. For example, three-dimensional models can
+be used for the study of medical anatomy and surgical procedures to promote interactive
+learning and minimize the use of cadavers. In this way, Medical Schools can use Digital
+Twin solutions to teach surgical techniques using simulation.
+  According to Iqbal, Krauthammer, and Biller-Andorno (2022), DTs can assist in
+various medical functions and in all stages of the disease lifecycle: pre-disease
+management,  disease  management,  and  post-disease  management.  Thus,  the  authors
+point out the use of Digital Twins in the contexts of screening and prevention, diagnosis,
+prognosis, treatment and relief, prediction of intervention effects, and disease monitoring.
+However,  the  authors  point  out  several  ethical  challenges  with  the  use  of  DT  in  the
+Medical area, namely:
+• Equity in Access to Technology: The shortage of medical and IT professionals
+can increase competition, benefiting wealthy countries and widening inequalities.
+Reimbursement policies can accentuate differences in health outcomes based on
+ability to pay;
+• Complexity, Legal Responsibility, and Ownership: Allocating responsibility is
+still  an  open  issue,  as  the  complexity  of  Digital  Twins  can  make  it  difficult  to
+clearly define responsibilities. Responsibility may lie with companies developing
+Digital Twins, questioning who owns the specific patient model and how to ensure
+the safety and effectiveness of these models;
+• Autonomy  and  Nonmaleficence:  DTs  can  create  a  false  sense  of  security  and
+excessive  dependence,  threatening  the  autonomy  of  patients  and  healthcare
+professionals, as medical decisions may be influenced by DT recommendations;
+• Privacy: Maximum Potential for Data and DT Model Abuse: Integrating multiple
+data sources and analyzing medical functions have significant financial value for
+legitimate and illegitimate stakeholders. The risk of hackers and abuse of sensitive
+data is significant, making the protection of Digital Twins critical and questioning
+potential benefits versus risks.
+3.3 Digital Twins in AEC (Architecture, Engineering, and Construction) Teaching
+A common finding in the papers reviewed is that the concept of Digital Twin is still in
+the prototype phase in the AEC sector compared to other industries, as real applications
+are rare [Pregnolato et al., 2022]. Much of this is due to the lack of protocols and standards
+that  would  serve  as  a  guide.  To  address  this  issue,  academia  and  industry  have  been
+working  to  define  processes  for  developing  a  Digital  Twin,  especially  for  legacy
+infrastructures,  which  are  less  likely  to  have  support  for  the  necessary  technologies  to
+adapt to a DT implementation [Pregnolato et al., 2022]. In the UK, major AEC consulting
+firms  (e.g.,  Arup,  Mott  MacDonald)  have  been  working  with  the  CDBB  (Center  for
+Digital Built Britain) and universities (e.g., Cambridge University's Institute for
+XIII Congresso Brasileiro de Informática na Educação (CBIE 2024)
+XXXV Simpósio Brasileiro de Informática na Educação (SBIE 2024)
+728
+
+XIII Congresso Brasileiro de Informática na Educação (CBIE 2024)
+XXXV Simpósio Brasileiro de Informática na Educação (SBIE 2024)
+728
+
+
+Manufacturing)  to  align  their  agendas  with  the  future  vision  for  Digital  Twins.  Some
+metrics  have  already  been  defined  in  the  report  by  Arup  (2019),  such  as  autonomy,
+intelligence, learning, and fidelity. Each of these is evaluated on a scale of 1 to 5 regarding
+the maturity level of the Digital Twin implementation. In addition to the aforementioned
+aspects, the multidisciplinarity, dynamism, and high complexity present in infrastructure
+and construction projects have attracted even more the construction industry's attention
+towards  implementing  Digital  Twins  in  their  projects  [Dai  and  Brell-Çokcan,  2022]  as
+shown in Figure 4.
+
+Figure 4.  Core functions of a DT based Multiplayer game used in construction
+teaching.  – source: [Dai and Brell-Çokan, 2022]
+  Although  still  in  its  infancy  in  this  field,  the  concept  of  Digital  Twin  and  the
+surrounding technologies are gaining more space  in university education,  Calveti et al.
+(2024)  discusses  the  current  need  for  civil  engineers  to  master  concepts  related  to
+technology and IT infrastructure and project management. As an example in Kangisser et
+al. (2022), the concept of Digital Twins helps university students in Civil Engineering,
+Civil  Construction,  and  Architecture  courses  at  the  Georgia  Institute  of  Technology
+understand what is known as Construction 4.0. This is defined by Smit, J. et al. (2016) as
+the organization of production processes based on technology and devices that
+communicate  autonomously.  Following  this  line,  Calveti  et  al.  (2024),  talks  about  the
+importance of updating curricula in Civil Engineering courses, and how integrating the
+concept of Digital Twins into the curriculum can help students in course engagement, self
+development and readiness for the Construction 4.0 market, keeping up with the industry's
+technological  revolutions.  In  fact,  the  work  of  Dai  and  Brell-Çokcan  (2022),  saw  an
+increase in motivation and learning interest of the students through the usage of the Unreal
+game engine to develop a DT of a construction site in Aachen West, which is a campus-
+based living lab.
+3.4 Digital Twins - R&D and Technical Training in Automotive, Robotics, and
+Energy Industries
+ The concept of Digital Twins is already well known in the automotive sector, where major
+manufacturers  use  them  as  a  faithful  virtual  representation  of  the  vehicle's  mechanical
+and aerodynamic parts. However, with the advancement of autonomous driving
+technologies,  Digital  Twins  have  assumed  an  even  more  important  role  for  the  sector,
+specifically in R&D for vehicle communication and autonomous vehicle training [Samak
+XIII Congresso Brasileiro de Informática na Educação (CBIE 2024)
+XXXV Simpósio Brasileiro de Informática na Educação (SBIE 2024)
+729
+
+XIII Congresso Brasileiro de Informática na Educação (CBIE 2024)
+XXXV Simpósio Brasileiro de Informática na Educação (SBIE 2024)
+729
+
+
+et  al.,  2023].  This  further  encourages  the  inclusion  of  Digital  Twins  in  the  training  of
+professionals working in this area. In the energy industry, specifically in the area of Smart
+Grids (SGs), due to the high cost related to  developing test-beds capable  of supporting
+real attacks and adapting to different scenarios and applications, creating a Digital Twin
+is  of  utmost  importance  to  facilitate  training  for  various  types  of  cyber  attacks  and
+conducting  research  [Kandasamy  et  al.,  2020].  In  his  work  [Kandasamy  et  al.,  2020]
+developed a Digital Twin of an Industrial Control System plant, on the size of a micro
+grid,  despite  the  differences  between  the  Digital  Twin  and  the  physical  test-bed  due  to
+constraints, the project made it possible for students, researchers and training operators
+to  perform  their  assessment  on  threats  of  attacks  into  the  components  of  the  grid,
+vulnerabilities of the system as well as performing rapid deployments and prototyping.
+  Figure 5 shows an example of DT for workforce training in a Brazilian electrical
+company,  showing  an  avatar  of  a  worker  manipulating  high-risk  electrical  equipment,
+having access to real-time information about the asset.
+
+Figure 5. A DT application for training on electrical system with real-time information
+from the real substation (in Portuguese) – source: [Siqueira et al., 2024]
+4. Research Challenges
+As  a  nascent  technology  in  Education,  DTs  face  barriers  to  effective  implementation,
+particularly in developing or underdeveloped countries. Key challenges include:
+● Technical  Complexity:  Implementing  and  maintaining  Digital  Twins  requires
+advanced technological infrastructure, which involves:
+○ Developing  realistic  3D  models  to  represent  complex  components  and
+objects, or mathematical models for processes and systems;
+○ High-speed, secure networks capable of synchronizing Digital Twins with
+their real counterparts and transmitting large data volumes in real time;
+○ Storing vast amounts of data and their models;
+○ Real-time parallel and distributed processing capabilities;
+○ Sensing and actuating elements in real-world components;
+○ Skilled teams to implement, manage, and update all system components.
+XIII Congresso Brasileiro de Informática na Educação (CBIE 2024)
+XXXV Simpósio Brasileiro de Informática na Educação (SBIE 2024)
+730
+
+XIII Congresso Brasileiro de Informática na Educação (CBIE 2024)
+XXXV Simpósio Brasileiro de Informática na Educação (SBIE 2024)
+730
+
+
+● Initial Cost: The development of Digital Twins often requires significant initial
+investment due to the aforementioned technical complexity. Additionally,
+ongoing maintenance costs are substantial;
+● Security  and  Privacy:  Robust  cybersecurity  measures  are  essential  to  comply
+with data protection laws in each country, given the extensive data collection and
+analysis involved in Digital Twins;
+● Integration with Existing Systems: Integrating new systems with existing ones
+is generally complex. In the educational context, this complexity is heightened by
+the need for a paradigm shift. Integration considerations must encompass
+administrative systems, existing Virtual Learning Environments, and the
+limitations and possibilities of integrating with Digital Twins;
+● Digital Divide: Inequities in technology access can limit the reach of Digital Twin
+solutions, particularly in developing or underdeveloped countries, or regions and
+communities with high social vulnerability, which is a big issue in Latin American
+countries [Souza et al., 2023];
+● Accessibility:  Given  the  various  media  involved  in  Digital  Twin  solutions,  the
+limitations of students with physical and cognitive disabilities must be considered.
+Lessons learned in other educational contexts, regarding content creation [Eliseo
+et al., 2023], could be helpful.
+ Literature  review  suggests  pathways  to  mitigate  these  challenges.  Regarding  technical
+complexity, research opportunities include:
+● Automating  or  semi-automating  the  generation  of  3D  models  for  objects  and
+environments  using  Artificial  Intelligence  techniques  such  as  Large  Language
+Models (LLM), 3D  Generative Adversarial Networks (GAN), photogrammetry,
+and other image-based techniques, and advanced Computer Vision technique , or
+a  combination  of  these  methods.  For  Digital  Twins  based  on  3D  models,  these
+solutions minimize modeling effort, time, and cost [Luhmann et al., 2023; Song
+et al., 2023; Hong, 2023; Hu et al., 2024];
+● More  humanistic  conversational  agents  could  improve  the  usability  of  DT.
+Research in Virtual Humans [Zalake et al., 2020] shows that users can experience
+a  more  engaging,  efficient,  and  user-friendly  interface  that  leverages  the  full
+potential of the technology;
+● Enhancing  devices,  techniques,  and  architectures  for  storage,  connectivity,  and
+processing is essential for effective Digital Twin implementation. Beyond Cloud
+Computing, solutions like Edge Computing, Fog Computing, and Dew
+Computing [Ageed et al., 2021] should be considered;
+● For  sensors  and  actuators  in  the  IoT  context  integrated  with  Digital  Twins  in
+Education,  further  research  is  needed.  Some  important  advances  in  this  aspect
+have been reached in the field of Multimodal Learning Analytics [Ochoa  et al.,
+2022];
+● Regarding  the  digital  divide,  effective  public  policies  and  research  to  make
+storage, network, and connectivity technologies more affordable and widespread
+are crucial. But, more than the infrastructural elements, teacher training is a crucial
+part of the process. For instance, OLPC (One Laptop Per Child)-related projects
+[Maciel; Passerino & Bez, 2011; Fabris & Finco, 2012] were focused more on the
+distribution of the laptops rather than on the accompanying teacher training and
+support. This lack of emphasis on teacher preparation often resulted in
+XIII Congresso Brasileiro de Informática na Educação (CBIE 2024)
+XXXV Simpósio Brasileiro de Informática na Educação (SBIE 2024)
+731
+
+XIII Congresso Brasileiro de Informática na Educação (CBIE 2024)
+XXXV Simpósio Brasileiro de Informática na Educação (SBIE 2024)
+731
+
+
+underutilization  of  the  laptops  and  missed  opportunities  to  enhance  learning
+outcomes.  An  important  exception  has  been  Ceibal  in  Uruguay  [Pittaluga  &
+Rivoir, 2012], which emphasizes teacher training and content generation, offering
+reasonable directions for reducing the digital divide compared to merely providing
+equipment. included comprehensive teacher training and ongoing support, which
+contributed  to  its  relative  success.  Teachers  were  provided  with  professional
+development to integrate the technology into their curriculum - the same
+preoccupation must be carried out when adoption DT solutions in Education;
+● For  accessibility,  despite  numerous  initiatives  related  to  assistive  technologies
+and  educational  models  for  inclusion,  such  as  Universal  Design  for  Learning
+(UDL) [Rose & Meyer, 2002], more research efforts are needed to enhance these
+technologies and restructure models to support inclusion in complex interactions
+with DTs.
+5. Conclusions and Further Work
+This  article  presents  a  literature  review  on  Digital  Twins  in  the  educational  field,
+highlighting various application scenarios: Science, Technology, Engineering, Arts, and
+Mathematics  (STEAM),  Healthcare Education,  Architecture and  Civil  Engineering
+Education, Technical Training, and Management, Economy and Business. The focus of
+this article also includes proposing and explaining a taxonomy that involves the inherent
+concepts  of  DT,  as  well  as  an  overview  of  the  evolution  from  VR  to  DT  in  terms  of
+technologies, methodologies, equipment, tools, and so on. Additionally, it discusses the
+continuous  evolution  from  VR  to  DT  in  terms  of  technologies,  tools,  languages,  etc.,
+which are intrinsically linked to the educational field.
+  In higher education, we discussed the adoption of DT by universities in various
+fields,  including  virtualizing  campus  environments,  improving  learning  processes,  and
+reducing costs for equipment and laboratories. We also address gamification as another
+approach  benefiting  from  DT  in  education,  using  gamification  elements  to  increase
+motivation.  In  robotics  education,  DTs  virtualize  training  centers,  with  students  using
+DTs demonstrating better preparedness and knowledge compared to traditional methods.
+This  underscores  the  effectiveness  of  DTs  in  enhancing  educational  outcomes  across
+various courses.
+  The  use  of  DT  in  Health  Education  is  still  emerging,  with  key  applications
+identified  in  simulation and  monitoring  of  patients,  organs,  or  biological  systems.  DTs
+have  the  potential  to  revolutionize  personalized  medical  treatments  by  integrating
+research knowledge with patient-specific data, extending to all medical courses.
+Additionally, AI-enabled DTs using VR and AR enhance interactive learning in medical
+training.
+  In the Architecture, Engineering, and Construction (AEC) sector,  the concept of
+DT is still in the prototype phase, with few real  applications. This is largely due to the
+lack of protocols and standards. Efforts are being made to define development processes,
+particularly for legacy infrastructures.
+  In the industry area, the concept of DT is widely used in the automotive sector for
+representing vehicles' mechanical and aerodynamic parts. With advancements in
+autonomous driving, DTs play a crucial role in vehicle communication and autonomous
+vehicle training [Samak et al., 2023]. This has expanded DTs' use in professional training.
+XIII Congresso Brasileiro de Informática na Educação (CBIE 2024)
+XXXV Simpósio Brasileiro de Informática na Educação (SBIE 2024)
+732
+
+XIII Congresso Brasileiro de Informática na Educação (CBIE 2024)
+XXXV Simpósio Brasileiro de Informática na Educação (SBIE 2024)
+732
+
+
+In  the  energy  industry,  particularly  Smart  Grids  (SGs),  DTs  are  vital  for  training  and
+research due to the high cost of real test-beds. Kandasamy et al. (2020) developed a DT
+of an Industrial Control System plant, enabling assessments of grid vulnerabilities, rapid
+deployments, and prototyping.
+  Further  research  is  required  to  fully  explore  the  potential  of  DT  in  various
+domains, and in Education additional efforts must be made by researchers, educational
+institutions, and companies, together with public policies focused on teacher training and
+on  reduction  of  digital  gap,  so  that,  once  again,  this  field  does  not  fall  behind  in
+technological innovations.
+Acknowledgements
+Authors  used  ChatGPT  4.0  in  some  parts  of  the  text  for  grammar  check  and  style
+improvement and also for translation of some paragraphs.
+References
+Ageed, Z. S., Zeebaree, S. R., Sadeeq, M. A., Ibrahim, R. K., Shukur, H. M., & Alkhayyat,
+A.  (2021,  September).  Comprehensive  study  of  moving  from  grid  and  cloud
+computing through fog and edge computing towards dew computing. In 2021 4th
+International Iraqi Conference on Engineering Technology and Their Applications
+(IICETA) (pp. 68-74). IEEE.
+Araujo, R. M., de la Higuera Amato, C. A., Martins, V. F., Eliseo, M. A., & Silveira, I. F.
+(2020). COVID-19, mudanças em práticas educacionais e a percepção de estresse por
+docentes do ensino superior no Brasil. Revista Brasileira de Informática na Educação,
+28, 864-891.
+ARUP (2018). Digital Twin – Towards a Meaningful Framework [online], Available at:
+https://www.arup.com/insights/digital-twin-towards-a-meaningful-framework/, 2018.
+Attaran, M., & Celik, B. G. (2023). Digital Twin: Benefits, use cases, challenges, and
+opportunities. Decision Analytics Journal, 6, 100165.
+Biazus, G. F., & Rieder, C. R. M. (2019). Uso da Tecnologia Assistiva na Educação
+Inclusiva no Ambiente Escolar: Revisão Sistemática. Revista Educação Especial, 32,
+1-15.
+Costa, D. L., Abrantes, D., Albert, F., & Bacelar, M. (2018). Revisão bibliográfica dos
+aspectos e métodos componentes da gamificação na educação. Feedback, 10(1), 6.
+Drummond, D., & Gonsard, A. (2024). Patient digital twins: an introduction based on a
+scoping review. medRxiv, 2024-02.
+Dai, R. & Brell-Çokcan, S. (2022) “Digital Twins as Education Support in Construction:
+A First Development Framework Based on the Reference Construction Site Aachen
+West”. Construction Robotics 6,1: 75–83. https://doi.org/10.1007/s41693-022-00070-
+7.
+Erdei, T. I., Krakó, R. & Husi, G. (2022) “Design of a Digital Twin Training Centre for
+an  Industrial  Robot  Arm”.  Applied  Sciences  12,  17  :  8862.
+https://doi.org/10.3390/app12178862.
+Carlberg, M., Kreutzer, S., Smit, J. et al. (2016) Industry 4.0, European Parliament,
+https://data.europa.eu/doi/10.2861/947880
+XIII Congresso Brasileiro de Informática na Educação (CBIE 2024)
+XXXV Simpósio Brasileiro de Informática na Educação (SBIE 2024)
+733
+
+XIII Congresso Brasileiro de Informática na Educação (CBIE 2024)
+XXXV Simpósio Brasileiro de Informática na Educação (SBIE 2024)
+733
+
+
+Eliseo, M. A., Martins, V. F., de la Higuera Amato, C. A., & Silveira, I. F. (2024). A digital
+ecosystem with pedagogical aspects to support the creation of accessible educational
+resources.  In A.  Rocha,  H. Adeli,  G.  Dzemyda,  F.  Moreira,  &  V.  Colla  (Eds.),
+Information Systems and Technologies. Lecture Notes in Networks and Systems, vol
+802. Springer, Cham. https://doi.org/10.1007/978-3-031-45651-0_44
+Fabris,  L.  L.,  &  Finco,  M.  D.  (2012).  Percepção  de  escolares  no  uso  de  laptops
+educacionais no contexto do projeto UCA. XXIII Simpósio Brasileiro de Informática
+na Educação.
+Garibaldi,  L.,  &  Ibarra,  M.  (2012).  Plan  Ceibal:  Mucho  más  que  distribución  de
+computadoras. Revista Paraguaya de Educación, 19-31.
+Hagedorn,  L.,  Riedelsheimer,  T.  &  Stark,  R.  (2023)  “Project-Based  Learning  In
+Engineering Education – Developing Digital Twins in a Case Study”. Proceedings of
+the Design Society 3: 2975–84. https://doi.org/10.1017/pds.2023.298.
+Hong, Y., Zhen, H., Chen, P., Zheng, S., Du, Y., Chen, Z., & Gan, C. (2023). 3d-llm:
+Injecting the 3d world into large language models. Advances in Neural Information
+Processing Systems, 36, 20482-20494.
+Hu, Z., Iscen, A., Jain, A., Kipf, T., Yue, Y., Ross, D. A., ... & Fathi, A. (2024, January).
+SceneCraft: An LLM Agent for Synthesizing 3D Scenes as Blender Code. In Forty-
+first International Conference on Machine Learning, Vienna, Austria.
+Iqbal, J. D., Krauthammer, M., & Biller-Andorno, N. (2022). The use and ethics of digital
+twins in medicine. Journal of Law, Medicine & Ethics, 50(3), 583-596.
+Johnson, P., Levine, S., Bonnard, C., Schuerer, K., Pécuchet, N., Gazères, N., & D’Souza,
+K. (2023). Digital twin for healthcare and lifesciences. In The digital twin (pp. 1023-
+1044). Cham: Springer International Publishing.
+Kandasamy, N. K., Venugopalan, S., Wong, T. K. & Leu, N. J. (2022) “An Electric Power
+Digital Twin for Cyber Security Testing, Research and Education”. Computers and
+Electrical  Engineering  101:  108061.
+https://doi.org/10.1016/j.compeleceng.2022.108061.
+Kangisser, S., Irizarry, J., Watt, K., Borger, R. & Burger, A. (2022) “Integrating Digital
+Twins  in  Construction  Education  Through  Hands-on  Experiential  Learning”.
+Proceedings  of  the  39th  ISARC,  Bogotá,  Colombia.
+https://doi.org/10.22260/ISARC2022/0035.
+Lee, J. Y., Pyon, C. U. & Woo, J. (2023) “Digital Twin for Math Education: A Study on
+the Utilization of Games and Gamification for University Mathematics Education”.
+Electronics 12, no 15 : 3207. https://doi.org/10.3390/electronics12153207.
+Liljaniemi, A. & Paavilainen, H. (2020) “Using Digital Twin Technology in Engineering
+Education – Course Concept to Explore Benefits and Barriers”. Open Engineering 10,
+no 1: 377–85. https://doi.org/10.1515/eng-2020-0040.
+Luhmann, T., Robson, S., Kyle, S., & Boehm, J. (2023). Close-range photogrammetry
+and 3D imaging. Walter de Gruyter GmbH & Co KG.
+Maciel, M., Passerino, L., & Bez, M. R. (2011). Um computador portátil para os alunos
+das escolas públicas: Ceibal e UCA. In Anais do XVII Workshop de Informática na
+Escola (pp. 1576-1579). SBC.
+XIII Congresso Brasileiro de Informática na Educação (CBIE 2024)
+XXXV Simpósio Brasileiro de Informática na Educação (SBIE 2024)
+734
+
+XIII Congresso Brasileiro de Informática na Educação (CBIE 2024)
+XXXV Simpósio Brasileiro de Informática na Educação (SBIE 2024)
+734
+
+
+Mathur, A. P. (2023) “Reconfigurable Digital Twin to Support Research, Education, and
+Training in the Defense of Critical Infrastructure”. IEEE Security & Privacy 21, no 4:
+51–60. https://doi.org/10.1109/MSEC.2023.3281272.
+Michael, N., Drakou, M. & Lanitis, A. Model-based generation of personalized full-body
+3D  avatars  from  uncalibrated  multi-view  photographs.  Multimed Tools Appl  76,
+14169–14195 (2017). https://doi.org/10.1007/s11042-016-3808-1
+NASA  -  National  Research  Council,  Division  on  Engineering,  Physical  Sciences,
+Aeronautics, Space Engineering Board, & Steering Committee for NASA Technology
+Roadmaps. (2012). NASA Space Technology Roadmaps and Priorities: Restoring
+NASA's Technological Edge and Paving the Way for a New Era in Space. National
+Academies Press.
+Nikolaev,  S.,  M.  Gusev,  D.  Padalitsa,  E.  Mozhenkov,  S.  Mishin,  e  I.  Uzhinsky.
+“Implementation of ‘Digital Twin’ Concept for Modern Project-Based Engineering
+Education”. In Chiabert, P. et al. (org), Product Lifecycle Management to Support
+Industry  4.0,  540:193–203.  IFIP  Advances  in  Information  and  Communication
+Technology.  Cham:  Springer  International  Publishing,  2018.
+https://doi.org/10.1007/978-3-030-01614-2_18.
+Ochoa,  X.,  Lang,  C.,  Siemens,  G., Wise, A.,  Gasevic,  D.,  &  Merceron, A.  (2022).
+Multimodal learning analytics-Rationale, process, examples, and direction. In The
+handbook of learning analytics (pp. 54-65).
+O’Mahony,  N.,  Campbell,  S.,  Carvalho,  A.,  Harapanahalli,  S.,  Hernandez,  G.  V.,
+Krpalkova, L., ... & Walsh, J. (2020). Deep learning vs. traditional computer vision. In
+Advances in Computer Vision: Proceedings of the 2019 Computer Vision Conference
+(CVC), Volume 1 1 (pp. 128-144). Springer International Publishing.
+Or-El, R., Luo, X., Shan, M., Shechtman, E., Park, J. J., & Kemelmacher-Shlizerman, I.
+(2022). Stylesdf: High-resolution 3d-consistent image and geometry generation. In
+Proceedings  of  the  IEEE/CVF  Conference  on  Computer  Vision  and  Pattern
+Recognition (pp. 13503-13513).
+Palmer, C., B. Roullier, M. Aamir, F. McQuade, Leonardo Stella, A. Anjum, e U. Diala.
+“Digital Twinning Remote Laboratories for Online Practical Learning”. Production &
+Manufacturing  Research  10,  no  1  (31  de  dezembro  de  2022):  519–45.
+https://doi.org/10.1080/21693277.2022.2097140.
+Pittaluga, L., & Rivoir, A. (2012). One laptop per child and bridging the digital divide:
+The case of plan CEIBAL in Uruguay. Information Technologies & International
+Development, 8(4), pp-145.
+Pregnolato, M., S. Gunner, E. Voyagaki, R. De Risi, N. Carhart, G. Gavriel, P. Tully, T.
+Tryfonas, J. Macdonald & C. Taylor. (2022) “Towards Civil Engineering 4.0: Concept,
+Workflow and Application of Digital Twins for Existing Infrastructure”. Automation
+in Construction 141: 104421. https://doi.org/10.1016/j.autcon.2022.104421.
+Qin, R., & Gruen, A. (2021). The role of machine intelligence in photogrammetric 3D
+modeling–an overview and perspectives. International Journal of Digital Earth, 14(1),
+15-31.
+Rose, D. (2000). Universal design for learning. Journal of Special Education Technology,
+XIII Congresso Brasileiro de Informática na Educação (CBIE 2024)
+XXXV Simpósio Brasileiro de Informática na Educação (SBIE 2024)
+735
+
+XIII Congresso Brasileiro de Informática na Educação (CBIE 2024)
+XXXV Simpósio Brasileiro de Informática na Educação (SBIE 2024)
+735
+
+
+15(4), 47-51.
+Rosen, R., Von Wichert, G., Lo, G., & Bettenhausen, K. D. (2015). About the importance
+of autonomy and digital twins for the future of manufacturing. IFAC-PapersOnLine,
+48(3), 567-572.
+Samak, T., Samak, C., Kandhasamy, S., Krovi, V. & Xie, M. (2023) “AutoDRIVE: A
+Comprehensive, Flexible and Integrated Digital Twin Ecosystem for Autonomous
+Driving  Research  &  Education”.  Robotics  12,  no  3:  77.
+https://doi.org/10.3390/robotics12030077.
+Sepasgozar, S. M. E. (2020) “Digital Twin and Web-Based Virtual Gaming Technologies
+for Online Education: A Case of Construction Management and Engineering”. Applied
+Sciences 10, no 13 : 4678. https://doi.org/10.3390/app10134678.
+Siqueira, A.G., Cardoso, A., Martins, V.F., Silveira, I.F. (2024). From Virtual Reality to
+Digital  Twins:  The  Long  and  Winding  Road.  26th  Symposium  on  Virtual  and
+Augmented Reality [Manuscript accepted for publication];
+Song, W., Zhang, X., Guo, Y., Li, S., Hao, A., & Qin, H. (2023). Automatic Generation
+of  3D  Scene Animation  Based  on  Dynamic  Knowledge  Graphs  and  Contextual
+Encoding. International Journal of Computer Vision, 131(11), 2816-2844.
+Souza Cruz Ravaglio, A., Muitana, G., da Silva Benites, C., Santana, C., Eliseo, M. A.,
+Silveira, I. F., Martins, V. F., & de la Higuera Amato, C. A. (2023). The idiosyncrasies
+of digital divide in Brazil: A literature review on initiatives of digital inclusion. In Ł.
+Tomczyk, F. D. Guillén-Gámez, J. Ruiz-Palmero, & A. Habibi (Eds.), Lecture notes in
+educational technology (Vol. 1, pp. 59-93). Springer Nature Singapore.
+Tomczyk, Ł., Eliseo, M. A., Costas, V., Sanchez, G., Silveira, I. F., Barros, M.-J., &
+Oyelere, S. S. (2019). Digital divide in Latin America and Europe: Main characteristics
+in selected countries. Iberian  Conference  on  Information  Systems  and  Technologies
+(CISTI 2019). IEEE. https://doi.org/10.23919/CISTI.2019.8760821
+Van der Valk, H., Haße, H., Möller, F., Arbter, M., Henning, J. L., & Otto, B. (2020,
+August). A Taxonomy of Digital Twins. In AMCIS.
+Wu, J., Zhang, C., Xue, T., Freeman, B., & Tenenbaum, J. (2016). Learning a probabilistic
+latent space of object shapes via 3d generative-adversarial modeling. Advances in
+neural information processing systems, 29.
+Zacher,  S.  (2020).  Digital  twins  for  education  and  study  of  engineering  sciences.
+International Journal on Engineering, Science and Technology, 2(2), 61-69.
+Zalake, M., de Siqueira, A. G., Vaddiparti, K., Antonenko, P., Hamza-Lup, F., & Lok, B.
+(2020). Towards rapid development of conversational virtual humans using Web3D
+technologies.  In  Proceedings  of  the  25th  International  Conference  on  3D  Web
+Technology (pp. 1-2).
+Zhang, J., Jiang, Z., Yang, D., Xu, H., Shi, Y., Song, G., ... & Feng, J. (2022, October).
+Avatargen:  a  3d  generative  model  for  animatable  human  avatars.  In  European
+Conference on Computer Vision (pp. 668-685). Cham: Springer Nature Switzerland.

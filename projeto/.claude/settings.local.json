@@ -11,7 +11,14 @@
       "Bash(cp:*)",
       "Bash(pdflatex:*)",
       "Bash(bibtex:*)",
+<<<<<<< HEAD
       "Bash(mv:*)"
+=======
+      "Bash(git add:*)",
+      "Bash(git rm:*)",
+      "Bash(rm:*)",
+      "Bash(find:*)"
+>>>>>>> e2877f14a008445aec39e2eba317c2ada565852f
     ],
     "deny": []
   }
