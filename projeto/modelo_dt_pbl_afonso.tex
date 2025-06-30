@@ -1,67 +1,51 @@
-\documentclass[12pt,a4paper]{article}
+\documentclass[12pt, a4paper, oneside, brazilian]{abntex2}
+
+% --- PACOTES ---
 \usepackage[utf8]{inputenc}
-\usepackage[provide=*,brazilian]{babel}
+\usepackage{lmodern}
+\usepackage[T1]{fontenc}
 \usepackage{graphicx}
-\usepackage{hyperref}
-\usepackage{abnt-alf}
+\usepackage[alf, abnt-emphasize=bf]{abntex2cite}
 \usepackage[top=3cm,bottom=2cm,left=3cm,right=2cm]{geometry}
 \usepackage{indentfirst}
+\usepackage{setspace}
+\usepackage[colorlinks=true, allcolors=blue]{hyperref}
+% ---
+
+% --- INFORMAÇÕES DO DOCUMENTO ---
+\titulo{Modelo de Gêmeo Digital de Processos e Sistemas para Avaliações em Project Based Learning}
+\autor{Afonso Cesar Lelis Brandão}
+\orientador{Dr. Ismar Frango Silveira}
+\instituicao{%
+  UNIVERSIDADE PRESBITERIANA MACKENZIE
+  \par
+  PROGRAMA DE PÓS-GRADUAÇÃO EM ENGENHARIA ELÉTRICA E COMPUTAÇÃO
+}
+\tipotrabalho{Projeto de Pesquisa}
+\preambulo{Projeto de Pesquisa apresentado ao Programa de Pós-Graduação em Engenharia Elétrica e Computação da Universidade Presbiteriana Mackenzie como parte dos requisitos para qualificação no programa de doutorado.}
+\local{São Paulo}
+\data{2025}
+% ---
 
 \begin{document}
 
-% CAPA
-\pagestyle{empty}
-\begin{center}
-\large  \textbf{UNIVERSIDADE PRESBITERIANA MACKENZIE}
-\large  \textbf{PROGRAMA DE PÓS-GRADUAÇÃO EM}\\
-\large  \textbf{ENGENHARIA ELÉTRICA E COMPUTAÇÃO}\\
-\vskip 2.0cm
-\textbf{\large Afonso Cesar Lelis Brandão}\\
-\vskip 4.0cm
-\setlength{\baselineskip}{1.5\baselineskip}
-\textbf{\large Modelo de Gêmeo Digital de Processos e Sistemas para Avaliações em Project Based Learning}\\
-\vskip 4.5cm
-\end{center}
-\hfill{\vbox{\hsize=8.5cm\noindent\strut
-Projeto de Pesquisa apresentado ao Programa\break
-de Pós-Graduação em Engenharia Elétrica e\break
-Computação da Universidade Presbiteriana\break
-Mackenzie como parte dos requisitos para\break
-qualificação no programa de doutorado.}\\
-\strut}
-\vskip 3.0cm
-\textbf{\normalsize Orientador: Dr. Ismar Frango Silveira}\\
-\vskip 2.0cm
-\begin{center}
-São Paulo, 2025\\
-\end{center}
+% --- ELEMENTOS PRÉ-TEXTUAIS ---
+\imprimircapa
+\imprimirfolhaderosto
 
-% RESUMO
-\newpage
-\thispagestyle{plain}
-\pagenumbering{roman}
-\begin{center}
-\large
-\textbf{RESUMO}
-\end{center}
-\renewcommand{\baselinestretch}{0.6666666}
+% --- RESUMO ---
+\begin{resumo}
+\begin{singlespace}
 Em criação.
-\\[0.5cm]
-\begin{flushleft}
-{\bf Palavras-chave:} {\it palavra 1, 2, 3...}
-\end{flushleft}
 
-% GLOSSÁRIO
-\newpage
-\thispagestyle{plain}
-\begin{center}
-\large
-\textbf{GLOSSÁRIO}
-\end{center}
-\renewcommand{\baselinestretch}{1.0}
-\normalsize
+\vspace{\onelineskip}
+\noindent
+\textbf{Palavras-chave:} \textit{palavra 1, 2, 3...}
+\end{singlespace}
+\end{resumo}
 
-\begin{description}
+% --- GLOSSÁRIO ---
+\begin{glossary}
 \item[TAPI] \textit{Termo de Abertura de Projeto Institucional} - Documento formal que define o escopo, objetivos e parâmetros iniciais de projetos institucionais em metodologias ativas de aprendizagem.
 
 \item[COVID-19] \textit{Coronavirus Disease 2019} - Doença causada pelo coronavírus SARS-CoV-2, identificada pela primeira vez em 2019.
@@ -77,20 +61,16 @@ Em criação.
 \item[MLOps] \textit{Machine Learning Operations} - Práticas e ferramentas para operacionalizar e manter modelos de aprendizado de máquina em produção.
 
 \item[PBL] \textit{Project-Based Learning} - Aprendizagem Baseada em Projetos. Metodologia educacional que organiza o processo de ensino-aprendizagem em torno de projetos autênticos e complexos.
+\end{glossary}
 
-\end{description}
-
-% SUMÁRIO
-\newpage
-\thispagestyle{empty}
+% --- SUMÁRIO ---
 \tableofcontents
+% ---
 
-% DESENVOLVIMENTO
-\newpage
-\pagestyle{plain}
-\pagenumbering{arabic}
-\renewcommand{\baselinestretch}{1.5}
-\normalsize
+% --- ELEMENTOS TEXTUAIS ---
+\textual
+\onehalfspacing
+
 \section{INTRODUÇÃO}
 
 A Aprendizagem Baseada em Projetos (Project-Based Learning - PBL) tem se consolidado como uma metodologia educacional que apresenta resultados documentados no desenvolvimento de competências técnicas e transversais em cursos de engenharia, com foco específico na integração entre teoria e prática através de projetos autênticos \cite{zhang2023, lavado2024, guo2020}. Esta abordagem pedagógica, centrada na resolução de problemas reais e complexos, promove o aprendizado experiencial através da execução de projetos práticos que integram conhecimentos teóricos e aplicações práticas. O desenvolvimento de métodos eficazes para avaliação da aprendizagem neste contexto requer a adoção de critérios estruturados que contemplem múltiplas dimensões do processo educacional, incluindo aspectos de utilidade, viabilidade, propriedade e precisão dos instrumentos de avaliação.
@@ -207,8 +187,6 @@ Finalmente, a pesquisa alinha-se com tendências internacionais de digitalizaç�
 \section{REFERENCIAL TEÓRICO}
 
 \subsection{Aprendizagem Baseada em Projetos (PBL)}
-
-A Aprendizagem Baseada em Projetos (Project-Based Learning - PBL) constitui uma metodologia educacional com características específicas que a distinguem de outras abordagens pedagógicas, organizando o processo educacional em torno de projetos autênticos e complexos onde os estudantes desenvolvem competências através da execução de atividades práticas e significativas \cite{thomas2000, savery2015}. Esta metodologia fundamenta-se nos princípios da aprendizagem experiencial de Kolb \cite{kolb1984}, que estabelece um ciclo de aprendizado composto por quatro estágios: experiência concreta, observação reflexiva, conceituação abstrata e experimentação ativa.
 
 A Aprendizagem Baseada em Projetos (Project-Based Learning - PBL) constitui uma metodologia educacional com características específicas que a distinguem de outras abordagens pedagógicas, organizando o processo educacional em torno de projetos autênticos e complexos onde os estudantes desenvolvem competências através da execução de atividades práticas e significativas \cite{thomas2000, savery2015}. Esta metodologia fundamenta-se nos princípios da aprendizagem experiencial de Kolb \cite{kolb1984}, que estabelece um ciclo de aprendizado composto por quatro estágios: experiência concreta, observação reflexiva, conceituação abstrata e experimentação ativa.
 
@@ -348,7 +326,6 @@ O desenvolvimento desta pesquisa de doutorado está estruturado em fases sequenc
 \centering
 \caption{Cronograma de Execução da Pesquisa}
 \label{tab:cronograma}
-\small
 \begin{tabular}{|l|c|c|c|c|c|c|c|c|c|}
 \hline
 \textbf{Atividade} & \textbf{Jul} & \textbf{Ago} & \textbf{Set} & \textbf{Out} & \textbf{Nov} & \textbf{Dez} & \textbf{Jan} & \textbf{Fev} & \textbf{Mar} \\
@@ -676,9 +653,9 @@ Esta seção sintetizará as principais contribuições da pesquisa, limitaçõe
 
 [A ser preenchido com as recomendações para implementação prática]
 
-\def\refname{REFERÊNCIAS BIBLIOGRÁFICAS}
+% --- ELEMENTOS PÓS-TEXTUAIS ---
+\postextual
 \bibliography{biblproj}
-\addcontentsline{toc}{section}{REFERÊNCIAS BIBLIOGRÁFICAS}
-\bibliographystyle{abnt-alf}
+% ---
 
 \end{document}
