@@ -85,3 +85,10 @@ TS=(("digital twin*") AND ("software engineering" OR "software architecture" OR 
 *Criado em: Janeiro 2025*  
 *Projeto: Modelo de Gêmeo Digital de Processos e Sistemas para Avaliações em PBL*  
 *Autor: Afonso Cesar Lelis Brandão*
+
+
+# Próximos passos (Patente)
+1. Espacenet
+2. Patentscope
+3. WIPO
+4. Lens Patent Search
