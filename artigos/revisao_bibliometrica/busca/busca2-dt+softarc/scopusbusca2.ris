@@ -1,0 +1,433 @@
+﻿TY  - JOUR
+AU  - Jingyu, L.
+AU  - Weixi, J.
+AU  - Chen, C.
+AU  - Su, X.
+TI  - Maintenance architecture design of equipment operation and maintenance system based on digital twins
+PY  - 2024
+T2  - Proceedings of the Institution of Mechanical Engineers, Part B: Journal of Engineering Manufacture
+VL  - 238
+IS  - 13
+SP  - 1971
+EP  - 1990
+DO  - 10.1177/09544054231214011
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85181480187&doi=10.1177%2f09544054231214011&partnerID=40&md5=669f5be4997ee026078e61b53e50bc0e
+AB  - The digital twins process of equipment operation and maintenance involves massive data and complex business logic. Through data awareness of equipment and workshop environment. According to the characteristics of equipment operation and maintenance, the data characteristics and requirements are analysed, an equipment operation and maintenance management system based on the micro-service framework is proposed, a set of equipment operation and maintenance digital twins are designed and a general reference software architecture is designed and by checking the underlying in-heap pattern reduces high-impact portions of memory to provide accurate follow-up complex digital twins modelling provides the architectural foundation. © IMechE 2024.
+KW  - digital twins
+KW  - equipment maintenance
+KW  - microservices
+KW  - Smart manufacturing
+KW  - software architecture
+KW  - Computer software maintenance
+KW  - Information management
+KW  - Architecture designs
+KW  - Business logic
+KW  - Data requirements
+KW  - Equipment maintenance
+KW  - Maintenance systems
+KW  - Massive data
+KW  - Microservice
+KW  - Operation system
+KW  - Operations and maintenance
+KW  - Smart manufacturing
+KW  - Software architecture
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 25 August 2025; Cited By: 4
+ER  -
+
+TY  - JOUR
+AU  - Li, P.-C.
+AU  - Bi, X.-X.
+AU  - Zhang, Z.
+AU  - Deng, X.-B.
+AU  - Li, C.
+AU  - Wang, L.-W.
+AU  - Liu, G.-F.
+AU  - Zhang, Y.
+AU  - Zhou, A.-Y.
+AU  - Liu, Y.
+TI  - A versatile framework for attitude tuning of beamlines at light source facilities
+PY  - 2025
+T2  - Journal of Synchrotron Radiation
+VL  - 32
+IS  - Pt 4
+SP  - 924
+EP  - 933
+DO  - 10.1107/S1600577525003960
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-105010782384&doi=10.1107%2fS1600577525003960&partnerID=40&md5=7a7647a26940a5516d8243d8765f92e0
+AB  - Aside from regular beamline experiments at light sources, the preparation steps before these experiments are also worthy of systematic consideration in terms of automation; a representative category in these steps is attitude tuning, which typically appears in contexts like beam focusing, sample alignment etc. With the goal of saving time and human effort in both writing and using such code, a Mamba-based attitude-tuning framework is created. It supports flexible input/output ports, easy integration of diverse evaluation functions and free selection of optimization algorithms. With the help of Mamba's infrastructure, machine learning (ML) and artificial intelligence (AI) technologies can also be readily integrated. The tuning of a polycapillary lens and of an X-ray emission spectrometer are given as examples for the general use of this framework, featuring powerful command-line interfaces (CLIs) and friendly graphical user interfaces (GUIs) that allow comfortable human-in-the-loop control. The tuning of a Raman spectrometer demonstrates more specialized use of the framework with customized optimization algorithms. With similar applications in mind, this framework is estimated to be capable of fulfilling most attitude-tuning needs. Also reported is a virtual-beamline mechanism based on easily customisable simulated detectors and motors, which facilitates both testing for developers and training for users, as well as the encapsulation of digital twins. © Peng-Cheng Li et al. 2025.
+KW  - beam focusing
+KW  - Mamba
+KW  - sample alignment
+KW  - software architecture
+KW  - virtual beamlines
+KW  - Digital twin
+KW  - Graphical user interfaces
+KW  - Light sources
+KW  - Tuning
+KW  - Well testing
+KW  - X ray spectrometers
+KW  - Beam focusing
+KW  - Beam-lines
+KW  - In contexts
+KW  - Input-output
+KW  - It supports
+KW  - Mamba
+KW  - Optimization algorithms
+KW  - Output ports
+KW  - Sample alignment
+KW  - Virtual beamline
+KW  - algorithm
+KW  - article
+KW  - artificial intelligence
+KW  - attitude
+KW  - automation
+KW  - computer interface
+KW  - digital twin
+KW  - encapsulation
+KW  - human
+KW  - human cell
+KW  - infrastructure
+KW  - lens (optics)
+KW  - light
+KW  - machine learning
+KW  - microcatheter
+KW  - open access
+KW  - simulation
+KW  - software
+KW  - spectrometer
+KW  - therapy
+KW  - X ray
+KW  - X ray analysis
+KW  - Software architecture
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 25 August 2025; Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Alghamdi, W.
+AU  - Albassam, E.
+TI  - Synchronization Patterns for Digital Twin Systems
+PY  - 2024
+T2  - Journal of Applied Data Sciences
+VL  - 5
+IS  - 3
+SP  - 1026
+EP  - 1037
+DO  - 10.47738/jads.v5i3.267
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85200603145&doi=10.47738%2fjads.v5i3.267&partnerID=40&md5=87efb2f9b523a55c7a3c28f92b7d30fa
+AB  - In the area of digital twin technologies, ensuring operational accuracy and efficiency requires information alignment between the physical objects and their corresponding digital twins. This study presents a catalog of synchronization patterns that can be incorporated into the design of digital twin systems to help improve data quality and alignment in these systems. The catalog consists of 11 synchronization patterns and was developed based on analyzing prior synchronization solutions in digital twin systems. This catalog provides an overview of each pattern, its applicability, and its advantages and limitations. With this approach, it is possible to study the benefits and limitations of various synchronization patterns, such as time-driven, event-driven, hybrid, and adaptive patterns, and determine their applicability in different operational settings. Identified patterns are simulated in several component-based software architectures, where synchronization patterns are embedded in components’ connectors to minimize modification in these components. The study results indicate that it is crucial to identify and incorporate appropriate synchronization patterns in the design of digital systems to maximize the benefit of this technology. While some patterns work well in industrial settings, others are more applicable in domains such as health systems and smart cities. The findings offer valuable directions for future innovations and use in various industries, thereby significantly raising the field of digital twin technology. © Authors retain all copyrights.
+KW  - Digital Twins Technology
+KW  - Patterns
+KW  - Software Design
+KW  - Synchronization
+KW  - Synchronization Triggers
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 25 August 2025; Cited By: 4
+ER  -
+
+TY  - JOUR
+AU  - Ren, Z.
+AU  - Yan, S.
+AU  - Chen, Z.
+AU  - Xu, X.
+AU  - Fu, X.
+AU  - Guo, Z.
+AU  - Zhou, Y.
+AU  - Yang, F.
+TI  - State of the Art and Trend of Several Key Issues in Low Frequency Electromagnetic Simulation of Electrical Equipment
+ST  - 电工装备低频电磁仿真中若干关键问题研究现状及趋势
+PY  - 2024
+T2  - Gaodianya Jishu/High Voltage Engineering
+VL  - 50
+IS  - 3
+SP  - 905
+EP  - 923
+DO  - 10.13336/j.1003-6520.hve.20240382
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85189469809&doi=10.13336%2fj.1003-6520.hve.20240382&partnerID=40&md5=cd46f4522c64e00f1499d482ebb7ddc8
+AB  - Low-frequency electromagnetic field simulation is the fundamental and key technology for the artificial intelligence of electrical equipment. Based on the development history of computational electromagnetics since the 1960s, this paper discusses the state of art of several key issues in low-frequency electromagnetic field simulation and looks forward to the current development trend in the field of numerical simulation. Firstly, the basic equations and numerical discretization methods of low-frequency electromagnetic field calculation are introduced. Secondly, the issues including homogenization, anisotropy and hysteresis model in material modelling are analyzed and discussed. Subsequently, the special characteristics of mesh and discrete format in low-frequency electromagnetic field simulation are explained from several aspects, such as multi-scale problem, skin effect, open boundary as well as deformation and motion; the current development trends of electromagnetic-thermal-structural multi-physics coupling are then analyzed; physical model-based and data-driven modelling approaches as well as recent work in digital twin model building are introduced. Finally, the development trend of numerical simulation in optimal design, digital twin, artificial intelligence and new generation of simulation software is analyzed and discussed. At present, multi-scale and multi-physics coupled modeling and simulation is still a focus of research in the field of electromagnetic field computation. The integration of the traditional numerical simulation with emerging computing technologies and artificial intelligence is becoming more and more significant. Under the cutting-edge needs of smart manufacturing and digital twins, electromagnetic field computation faces the challenges of efficient iterative simulation and real-time simulation. Physics and data-driven based surrogate modeling is a key technology to resolve the two issues. Industrial CAE simulation software architecture is undergoing a profound change, there is an urgent need to enhance the core technology and application ecology of China's self-developed CAE simulation software. © 2024 Science Press. All rights reserved.
+KW  - artificial intelligence
+KW  - computational electromagnetics
+KW  - digital twin
+KW  - finite element
+KW  - industrial simulation software
+KW  - Application programs
+KW  - Computational electromagnetics
+KW  - Discrete event simulation
+KW  - Electromagnetic fields
+KW  - Electromagnetic simulation
+KW  - Finite element method
+KW  - Hysteresis
+KW  - Iterative methods
+KW  - Numerical methods
+KW  - Numerical models
+KW  - Development trends
+KW  - Electrical equipment
+KW  - Electromagnetic field simulation
+KW  - Finite element
+KW  - Industrial simulation
+KW  - Industrial simulation software
+KW  - Key Issues
+KW  - Key technologies
+KW  - Low frequency electromagnetic field
+KW  - Simulation software
+KW  - Artificial intelligence
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 25 August 2025; Cited By: 4
+ER  -
+
+TY  - JOUR
+AU  - Li, N.
+AU  - Xie, G.
+AU  - Zhang, X.
+AU  - Shi, H.
+AU  - Nie, X.
+AU  - Wang, Y.
+AU  - Wang, J.
+AU  - Wang, J.
+TI  - Six-dimensional digital twin modeling and software platform design for complex industrial systems
+PY  - 2025
+T2  - Journal of Intelligent Manufacturing
+C7  - 951643
+DO  - 10.1007/s10845-025-02567-8
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85217395362&doi=10.1007%2fs10845-025-02567-8&partnerID=40&md5=8e2d64f3e6f33d5561958b6a1c72a04a
+AB  - Digital transformation has long been widely applied across industries through ICT, and digital twin technology as a leading innovation, is further driving the digital upgrade of complex industrial systems. Due to the complexity of structure hierarchy, data interaction and system connectivity in the complex industrial systems, there are still challenges in the application of digital twins, such as difficulties in model design, complex data management, and high software platform development costs (as developer costs, license fees, and outsourcing costs). This paper proposes a solution that consists of the model design for digital twins and a corresponding software architecture platform for complex industrial systems. Firstly, a six-dimensional model for digital twins and a four-dimensional modeling theory for virtual entities is proposed to solves the problem of model design for digital twins; Then, a dual-core data architecture, which combines relational databases and time series databases (called R-TSDB), is proposed to optimize data storage and access for the digital twin model. Finally, a digital twin software platform architecture based on a six-dimensional model that integrates multiple model types and handles multi-source data, with community-driven initiatives supporting the reduction of implementation costs. Extensive experiments conducted on a 600MW subcritical coal-fired boiler at a power plant demonstrate that the proposed solution is of great significance to the modeling and implementation of digital twins in complex industrial systems. © The Author(s), under exclusive licence to Springer Science+Business Media, LLC, part of Springer Nature 2025.
+KW  - Complex industrial systems
+KW  - Database
+KW  - Digital twin
+KW  - R-TSDB
+KW  - Software architecture
+KW  - Coal industry
+KW  - Coal storage
+KW  - Cost reduction
+KW  - Fees and charges
+KW  - Outsourcing
+KW  - Relational database systems
+KW  - Structural dynamics
+KW  - Virtual Power Plants
+KW  - Complex industrial systems
+KW  - Digital transformation
+KW  - Digital upgrades
+KW  - Dimensional model
+KW  - Leading innovations
+KW  - Modeling designs
+KW  - Modeling platforms
+KW  - Platform design
+KW  - R-TSDB
+KW  - Software platforms
+KW  - Information management
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 25 August 2025; Cited By: 2
+ER  -
+
+TY  - JOUR
+AU  - Splettstößer, A.-K.
+TI  - The Quality-aware Digital Twin - A Model-driven Reference Architecture to Enhance Process Quality
+ST  - Der qualitätsbewusste Digitale Zwilling Eine modellgetriebene Referenzarchitektur für verbesserte Prozessqualität
+PY  - 2024
+T2  - ZWF Zeitschrift fuer Wirtschaftlichen Fabrikbetrieb
+VL  - 119
+IS  - 3
+SP  - 182
+EP  - 185
+DO  - 10.1515/zwf-2024-1024
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85187790854&doi=10.1515%2fzwf-2024-1024&partnerID=40&md5=357f8c3e1ecc930b898b2046cfd57679
+AB  - Connecting a digital twin to its associated cyber-physical system improves system knowledge and supports effective operation. The presented reference architecture includes a service component that manages different services to optimize process quality. Two exemplary services illustrate the potential of this reference architecture. A model-driven approach with design and runtime models is used to increase the level of abstraction. © 2024 Walter de Gruyter GmbH.
+KW  - Digital Twin
+KW  - Model-driven Software Development
+KW  - Process Modification
+KW  - Quality Awareness
+KW  - Software Architecture
+KW  - Embedded systems
+KW  - Software design
+KW  - Cybe-physical systems
+KW  - Cyber-physical systems
+KW  - Model-driven
+KW  - Model-Driven Software Development
+KW  - Process modifications
+KW  - Process quality
+KW  - Quality awareness
+KW  - Reference architecture
+KW  - System knowledge
+KW  - Systems support
+KW  - Software architecture
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 25 August 2025; Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Skoury, L.
+AU  - Treml, S.
+AU  - Opgenorth, N.
+AU  - Amtsberg, F.
+AU  - Wagner, H.J.
+AU  - Menges, A.
+AU  - Wortmann, T.
+TI  - Towards data-informed co-design in digital fabrication
+PY  - 2024
+T2  - Automation in Construction
+VL  - 158
+C7  - 105229
+DO  - 10.1016/j.autcon.2023.105229
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85179581655&doi=10.1016%2fj.autcon.2023.105229&partnerID=40&md5=86860b72f08571bc1047ca262a4dd19a
+AB  - Industry 4.0 has the potential to revolutionise design-to-fabrication processes in the Architecture, Engineering, and Construction (AEC) industry. However, early adoption of Industry 4.0 technology has led to challenges related to data consistency, interoperability, and collaboration among stakeholders. To address these challenges of interoperability and standardisation, this paper introduces a digital thread-based framework for integrating Industry 4.0 concepts into design-to-fabrication processes. At the framework's core are digital threads, which connect physical assets with their digital twin models, communication networks, and decision algorithms. More specifically, the framework comprises a modular and scalable fabrication data schema combined with a comprehensive services software architecture that leverages fabrication design, management, and control tools. The framework was evaluated through a large-scale case study, the livMats Biomimetic Shell. The case study results demonstrate an improvement in collaboration and communication among stakeholders, reduction of errors in the robotic fabrication process and increased efficiency throughout the design-to-fabrication process. By embracing and implementing the digital thread concept, this research showcases the benefits of data-driven decision-making within the construction sector. © 2023 Elsevier B.V.
+KW  - Design-to-fabrication
+KW  - Digital fabrication
+KW  - Digital threads
+KW  - Digital twin
+KW  - Biomimetics
+KW  - Construction industry
+KW  - Decision making
+KW  - Design
+KW  - Industry 4.0
+KW  - Information management
+KW  - Interoperability
+KW  - Network architecture
+KW  - Architecture engineering
+KW  - Case-studies
+KW  - Co-designs
+KW  - Data collaborations
+KW  - Data consistency
+KW  - Data interoperability
+KW  - Design-to-fabrication
+KW  - Digital fabrication
+KW  - Digital thread
+KW  - Fabrication process
+KW  - Fabrication
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 25 August 2025; Cited By: 9
+ER  -
+
+TY  - JOUR
+AU  - Wittmann, L.
+AU  - Luber, M.
+AU  - Philipp, S.
+AU  - Schilp, J.
+TI  - Application of the asset administration shell for mapping a modular and connected robot system – System architecture of a digital twin for a robot system
+ST  - Softwarearchitektur eines digitalen Zwillings für ein Robotersystem: Einsatz der AAS zur Abbildungeines Robotersystems
+PY  - 2025
+T2  - WT Werkstattstechnik
+VL  - 115
+IS  - 3
+SP  - 141
+EP  - 147
+DO  - 10.37544/1436-4980-2025-03-23
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-105003895860&doi=10.37544%2f1436-4980-2025-03-23&partnerID=40&md5=05e7123aa5da8bfa4dcba076b9741eb9
+AB  - A standardized description of states, properties and capabilities of production systems is crucial for fulfilling the principles of Industry 4.0. Standards such as the Asset Administration Shell (AAS) are used to ensure interoperability. The definition of a process for creating and a software architecture for implementing AAS within a modular robot system contributes to the implementation of Industry 4.0 scenarios. © 2025 VDI Fachmedien GmBH & Co. KG. All rights reserved
+KW  - Modular robot systems
+KW  - Modulars
+KW  - Production system
+KW  - Property
+KW  - Robots system
+KW  - Systems architecture
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 25 August 2025; Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Ahmed, B.S.
+AU  - Azzalin, T.
+AU  - Kassler, A.
+AU  - Thore, A.
+AU  - Lindbäck, H.
+TI  - Smart manufacturing: MLOps-enabled event-driven architecture for enhanced control in steel production
+PY  - 2025
+T2  - Journal of Systems and Software
+VL  - 230
+C7  - 112542
+DO  - 10.1016/j.jss.2025.112542
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-105010015433&doi=10.1016%2fj.jss.2025.112542&partnerID=40&md5=75b9d9cbe56dc1e80226bd9412597722
+AB  - We explore a Digital Twin-Based Approach for Smart Manufacturing to improve Sustainability, Efficiency, and Cost-Effectiveness for a steel production plant. Our system is based on a micro-service edge-compute platform that ingests real-time sensor data from the process into a digital twin over a converged network infrastructure. We implement agile machine learning-based control loops in the digital twin to optimize induction furnace heating, enhance operational quality, and reduce process waste. Key to our approach is a Deep Reinforcement learning-based agent used in our machine learning operation (MLOps) driven system to autonomously correlate the system state with its digital twin to identify correction actions that aim to optimize power settings for the plant. We present the theoretical basis, architectural details, and practical implications of our approach to reduce manufacturing waste and increase production quality. We design the system for flexibility so that our scalable event-driven architecture can be adapted to various industrial applications. With this research, we propose a pivotal step towards the transformation of traditional processes into intelligent systems, aligning with sustainability goals and emphasizing the role of MLOps in shaping the future of data-driven manufacturing. © 2025 The Authors
+KW  - Advanced machine learning (ML)
+KW  - Deep reinforcement learning (DRL)
+KW  - MLOps-driven architecture
+KW  - Steel production
+KW  - Agile manufacturing systems
+KW  - Architecture
+KW  - Cost effectiveness
+KW  - Deep learning
+KW  - Deep reinforcement learning
+KW  - Digital twin
+KW  - E-learning
+KW  - Industrial research
+KW  - Intelligent agents
+KW  - Learning algorithms
+KW  - Learning systems
+KW  - Metadata
+KW  - Network architecture
+KW  - Reinforcement learning
+KW  - Smart manufacturing
+KW  - Software architecture
+KW  - Sustainable development
+KW  - Advanced machine learning
+KW  - Deep reinforcement learning
+KW  - Event-driven architectures
+KW  - Machine learning operation-driven architecture
+KW  - Machine-learning
+KW  - Manufacturing machine
+KW  - Reinforcement learnings
+KW  - Smart manufacturing
+KW  - Steel production
+KW  - Steelmaking
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 25 August 2025; Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Ferrari, M.
+AU  - Fausti, R.
+AU  - Tonola, C.
+AU  - Delledonne, M.
+AU  - Sandrini, S.
+AU  - Beschi, M.
+AU  - Villagrossi, E.
+TI  - A distributed control architecture for a multi-agent robotic cell: a battery pack disassembly case study
+PY  - 2025
+T2  - International Journal of Computer Integrated Manufacturing
+DO  - 10.1080/0951192X.2025.2531488
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-105012180653&doi=10.1080%2f0951192X.2025.2531488&partnerID=40&md5=dc0329e8c2a0ccac9743e5ae5240ca2d
+AB  - Disassembly in industrial settings is a complex process that requires diverse hardware, robots, and sensors. Effective collaboration between robots and human operators is crucial for enhancing flexibility. Although research has explored aspects like motion planning and multi-robot coordination, a comprehensive architectural solution is still lacking. This article proposes a decentralised software architecture that integrates various devices, robots, tools, sensors, vision systems, and safety mechanisms. It supports multi-robot operations and is compatible with different hardware and protocols. The architecture allows real-time control operations to coexist with more intensive computational tasks. Additionally, the paper offers a qualitative comparison with existing solutions. The proposed architecture has been validated in a case study focused on dismantling end-of-life automotive battery packs, demonstrating its adaptability, safety, and low-code programming in disassembly processes. © 2025 Informa UK Limited, trading as Taylor & Francis Group.
+KW  - battery pack disassembly
+KW  - Distributed control architecture
+KW  - hybrid digital twin
+KW  - multi-robot cooperation
+KW  - multi-sensor integration
+KW  - robotic disassembly
+KW  - Battery Pack
+KW  - Closed loop control systems
+KW  - Computer control systems
+KW  - Digital twin
+KW  - Distributed parameter control systems
+KW  - Industrial robots
+KW  - Man machine systems
+KW  - Motion planning
+KW  - Multi agent systems
+KW  - Robot learning
+KW  - Robot programming
+KW  - Safety engineering
+KW  - Software architecture
+KW  - Battery pack
+KW  - Battery pack disassembly
+KW  - Case-studies
+KW  - Distributed control architectures
+KW  - Hybrid digital twin
+KW  - Multi agent
+KW  - Multi-robot cooperation
+KW  - Multisensor integration
+KW  - Robotic cell
+KW  - Robotic disassembly
+KW  - Multipurpose robots
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 25 August 2025; Cited By: 0
+ER  -
+

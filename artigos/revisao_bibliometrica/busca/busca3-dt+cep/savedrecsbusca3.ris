@@ -1,0 +1,77 @@
+﻿TY  - JOUR
+AU  - Zhou, MK
+AU  - Yan, JF
+AU  - Feng, DH
+TI  - Digital Twin Framework and Its Application to Power Grid Online Analysis
+T2  - CSEE JOURNAL OF POWER AND ENERGY SYSTEMS
+AB  - Digital twin (DT) framework is introduced in the context of application for power grid online analysis. In the development process of a new power grid real-time online analysis system, an online analysis digital twin (OADT) has been implemented to realize the new online analysis architecture. The OADT approach is presented and its prominent features are discussed. The presentation, discussion, and performance testing are based on a large-scale grid network model (40K+ buses), exported directly from the EMS system of an actual power grid. A plan to apply the OADT approach to digitize power grid dispatching rules is also outlined.
+SN  - 2096-0042
+DA  - SEP
+PY  - 2019
+VL  - 5
+IS  - 3
+SP  - 391
+EP  - 398
+DO  - 10.17775/CSEEJPES.2018.01460
+AN  - WOS:000511344100012
+ER  -
+
+TY  - JOUR
+AU  - Tran, CA
+AU  - Barchiesi, E
+AU  - Busonera, R
+AU  - Yildizdag, ME
+AU  - Trivelloni, I
+AU  - Turco, E
+TI  - Physical digital twins for ancient stone masonry informed of original construction techniques: the case of Sardinian nuraghi
+T2  - COMPTES RENDUS MECANIQUE
+AB  - A short review is provided regarding modern technical tools allowing to build digital twins for modelling ancient stone masonry structures and their physical behaviour. The objective of such tools is to assess the structural safety of cultural heritage masonry structures. The present work focuses on the particular case of Sardinian nuraghi, which are ancient corbelled stone masonry structures whose typical form is a truncated cone. As a starting point we consider a careful historical analysis of the construction techniques of those nuraghi. From this analysis, we address the choice of theoretical and numerical tools apt to construct a digital twin of complex nuraghi, in addition to delineating future challenges in building digital twins capable of simulating any physical process which may be relevant to ancient buildings.
+SN  - 1631-0721
+SN  - 1873-7234
+PY  - 2025
+VL  - 353
+DO  - 10.5802/crmeca.308
+AN  - WOS:001523658000001
+ER  -
+
+TY  - JOUR
+AU  - Yang, YS
+AU  - Li, M
+AU  - Yu, CL
+AU  - Zhong, RY
+TI  - Digital twin-enabled visibility and traceability for building materials in on-site fit-out construction
+T2  - AUTOMATION IN CONSTRUCTION
+AB  - Fit-out construction is crucial for the functionality of completed infrastructures. However, the absence of a robust data collection system hinders efficient project management, causing delays and extra costs. This paper introduces a digital twin-enabled platform that utilizes Internet of Things (IoT) and neural network technologies for real-time visibility and traceability of prefabricated materials. The effectiveness of the proposed platform has been validated through a real-life prefabricated construction project in Hong Kong. Leveraging the IoT-captured data, visual and event-driven process models are developed to simulate materials flow and workflow executions. Hierarchical finite state machines (HFSM) facilitate the management of prefabricated construction supply chain. Results show the platform's effectiveness in identifying abnormal event states and notifying stakeholders in realtime, thus supporting advanced project management practices. This platform improves information coordination among stakeholders, providing real-time visibility and traceability, and enabling hierarchical management at strategic, tactical, and operational levels throughout the prefabrication process.
+SN  - 0926-5805
+SN  - 1872-7891
+DA  - OCT
+PY  - 2024
+VL  - 166
+C7  - 105640
+DO  - 10.1016/j.autcon.2024.105640
+C6  - JUL 2024
+AN  - WOS:001281281400001
+ER  -
+
+TY  - JOUR
+AU  - Ma, RH
+AU  - Shi, HJ
+AU  - Gao, HH
+AU  - Guan, HB
+AU  - Iqbal, M
+AU  - Mumtaz, S
+TI  - cFedDT: Cross-Domain Federated Learning in Digital Twins for Metaverse Consumer Electronic Products
+T2  - IEEE TRANSACTIONS ON CONSUMER ELECTRONICS
+AB  - With the development of Consumer Electronic Products (CEP) in the Computer, Communication, and Consumer electronics (3C) industry, research over high speed, high precision, and reliability CEP has been an urgent need. Due to the high manufacturing requirements, it has been challenging to product, transmit, assembly, or test the CEP. Metaverse with Virtual Reality (VR)/Augmented Reality (AR) technologies connect reality and virtual, which provides a more convenient manufacturing platform for CEP, thus bringing up the concept of Metaverse Consumer Electronic Products (MCEP). Digital Twins (DT) has effectively provided an emulated software replica to create the Metaverse. DT for MCEP (DTM) facilitates the implementation of more advanced applications, especially Artificial Intelligence (AI) applications. An essential component in DTM AI applications is the labeled dataset, but such carefully labeled data are usually inaccessible since labeling is costly. In addition, the unlabeled data are usually stored locally, referred to as Federated Learning (FL). Previous works adopted Domain Adaptation to construct a pseudo-labeled dataset. However, those approaches have rising potential in accuracy, convergence speed, and communication efficiency. In this paper, we propose cFedDT, a cross-domain FL algorithm, to construct a pseudo-labeled dataset in DTM. cFedDT contains three modules. Ensembled Knowledge for Cross Distillation distills the knowledge from the source models to the target model to improve the target accuracy. Adaptive Batch adjustment for Stable Convergence gradually adjusts the number of batches on each client to speed up the converging process. Magnitude Pruning for Efficient Communication reduces the parameters that require communication to speed up the training. Our experimental results illustrate the priority of cFedDT. Compared with other state-of-the-art algorithms, cFedDT can increase the target accuracy by 9.8% or reduce up to 99.97% of the communication with a target accuracy loss of less than 2.7%.
+SN  - 0098-3063
+SN  - 1558-4127
+DA  - FEB
+PY  - 2024
+VL  - 70
+IS  - 1
+SP  - 3167
+EP  - 3182
+DO  - 10.1109/TCE.2023.3327010
+AN  - WOS:001244891300218
+ER  -
+

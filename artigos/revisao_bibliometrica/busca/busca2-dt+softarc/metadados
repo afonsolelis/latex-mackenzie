@@ -1,0 +1,4 @@
+string: TS=("digital twin*") AND TS=("ISO 10746" OR "software architecture" OR "architectural tactics" OR "software architecture tactics")
+web: 45
+scopus: 42
+filtro: article

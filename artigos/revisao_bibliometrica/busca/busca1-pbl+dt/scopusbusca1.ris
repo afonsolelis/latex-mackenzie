@@ -1,0 +1,405 @@
+﻿TY  - JOUR
+AU  - Yang, H.
+AU  - Chen, C.
+AU  - Wu, J.-L.
+TI  - Active learning of model discrepancy with Bayesian experimental design
+PY  - 2025
+T2  - Computer Methods in Applied Mechanics and Engineering
+VL  - 446
+C7  - 118198
+DO  - 10.1016/j.cma.2025.118198
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-105011479341&doi=10.1016%2fj.cma.2025.118198&partnerID=40&md5=260ae3dc1f54510adf4cc23f4d15280b
+AB  - Digital twins have been actively explored in many engineering applications, such as manufacturing and autonomous systems. However, model discrepancy is ubiquitous in most digital twin models and has significant impacts on the performance of using those models. In recent years, data-driven modeling techniques have been demonstrated promising in characterizing the model discrepancy in existing models, while the training data for the learning of model discrepancy is often obtained in an empirical way and an active approach of gathering informative data can potentially benefit the learning of model discrepancy. On the other hand, Bayesian experimental design (BED) provides a systematic approach to gathering the most informative data, but its performance is often negatively impacted by the model discrepancy. In this work, we build on sequential BED and propose an efficient approach to iteratively learn the model discrepancy based on the data from the BED. The performance of the proposed method is validated by a classical numerical example governed by a convection–diffusion equation, for which full BED is still feasible. The proposed method is then further studied in the same numerical example with a high-dimensional model discrepancy, which serves as a demonstration for the scenarios where full BED is not practical anymore. In this example with time-varying velocity, the network only learns the stationary discrepancy and leaves the time dependence being handled by the physics-based model itself, which helps mitigate ill-posedness of the joint learning problem. An ensemble-based approximation of information gain is further utilized to assess the data informativeness and to enhance learning model discrepancy. The results show that the proposed method is efficient and robust to the active learning of high-dimensional model discrepancy, using data suggested by the sequential BED. We also demonstrate that the proposed method is compatible with both classical numerical solvers and modern auto-differentiable solvers. © 2025 Elsevier B.V.
+KW  - Active learning
+KW  - Bayesian experimental design
+KW  - Ensemble Kalman method
+KW  - Model discrepancy
+KW  - Neural ODE
+KW  - Bayesian networks
+KW  - Design of experiments
+KW  - Digital twin
+KW  - Engineering education
+KW  - Iterative methods
+KW  - Learning systems
+KW  - Ordinary differential equations
+KW  - Statistics
+KW  - Active Learning
+KW  - Bayesian experimental designs
+KW  - Data-driven model
+KW  - Engineering applications
+KW  - Ensemble kalman method
+KW  - High-dimensional models
+KW  - Learn+
+KW  - Model discrepancies
+KW  - Neural ODE
+KW  - Performance
+KW  - Numerical methods
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 25 August 2025; Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Pitzalis, R.F.
+AU  - Giordano, A.
+AU  - Di Spigno, A.
+AU  - Cowell, A.
+AU  - Niculita, O.
+AU  - Berselli, G.
+TI  - Application of augmented reality-based digital twin approaches: a case study to industrial equipment
+PY  - 2025
+T2  - International Journal of Advanced Manufacturing Technology
+VL  - 138
+IS  - 7
+C7  - 735566
+SP  - 3747
+EP  - 3763
+DO  - 10.1007/s00170-025-15755-w
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-105006425340&doi=10.1007%2fs00170-025-15755-w&partnerID=40&md5=b269f82a5e743e91dfba3aabaffa2b6f
+AB  - Technology is constantly evolving, changing how industries work by making processes more efficient. This shift, known as Industry 4.0, connects the real and digital worlds, allowing devices, people, and systems to communicate through the Internet. Key technologies include Internet of Things, big data, additive manufacturing, artificial intelligence, machine learning, augmented reality, and digital twins. This paper focuses on researching and implementing enabling technologies of Industry 4.0 by illustrating the design of DT models and AR experiences of a test bench with a motorized planetary gearbox. The case study starts from the CAD realization and assembly of all the components by using PTC Creo Parametric. Then, sensors are installed and connected to data acquisition devices to acquire and monitor input and output parameters of the system. Finally, AR experiences are developed using Vuforia Studio starting from CAD models of real components. The AR experience showed when the gearbox was not working properly, with the output shaft running about 13% slower than expected. Because of this, the gearbox was disassembled, and the inspection found some rusted parts inside. This paper presents the steps to create a DT model and AR interface using affordable hardware and software. The project shows how these tools can be used in industrial settings and education for activities such as hands-on learning, plant design, real-time monitoring, predictive maintenance, remote support, and sharing knowledge. © The Author(s) 2025.
+KW  - Augmented reality
+KW  - Digital twin
+KW  - Gearbox
+KW  - Industry 4.0
+KW  - Smart factory
+KW  - Digital devices
+KW  - Case-studies
+KW  - Digital world
+KW  - Enabling technologies
+KW  - Industrial equipment
+KW  - Key technologies
+KW  - Machine-learning
+KW  - Making process
+KW  - Planetary gearboxes
+KW  - Real-world
+KW  - Test-bench
+KW  - Predictive maintenance
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 25 August 2025; Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Ortiz, J.S.
+AU  - Quishpe, E.K.
+AU  - Sailema, G.X.
+AU  - Guamán, N.S.
+TI  - Digital Twin-Based Active Learning for Industrial Process Control and Supervision in Industry 4.0
+PY  - 2025
+T2  - Sensors
+VL  - 25
+IS  - 7
+C7  - 2076
+DO  - 10.3390/s25072076
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-105002247923&doi=10.3390%2fs25072076&partnerID=40&md5=7f25cbba5536d7da05288d07a1547cab
+AB  - The integration of Digital Twin technology into active learning environments has been established as an innovative strategy to optimize engineering education. This study focuses on the development and evaluation of a learning tool based on Digital Twin technology, enabling interaction and communication between a physical teaching module and a virtualized environment representing the industrial cocoa production process. The system was operated by students using an S7-1200 PLC and an HMI interface developed in WinCC, facilitating real-time process monitoring and control via IoT. To assess its impact, an experimental design was implemented, comparing a pre-test using conventional teaching modules with a post-test incorporating Digital Twin technology. The results indicate a significant improvement in students’ accuracy and efficiency, with a 38% reduction in task execution time. This improvement is attributed to the system’s immersive and interactive capabilities, which allow for the simulation of actuator and sensor behavior under real-world conditions. These findings highlight the potential of Digital Twins not only as educational tools but also as valuable assets for industrial process optimization in the cocoa sector, aligning with Industry 4.0 principles. © 2025 by the authors.
+KW  - active learning
+KW  - Digital Twin
+KW  - Industry 4.0
+KW  - virtualized environment
+KW  - Students
+KW  - Virtualization
+KW  - Active Learning
+KW  - Active learning environment
+KW  - Industrial process control
+KW  - Innovative strategies
+KW  - Learning tool
+KW  - Process supervision
+KW  - Production process
+KW  - Real-time process control
+KW  - Teaching module
+KW  - Virtualized environment
+KW  - article
+KW  - digital twin
+KW  - educational tool
+KW  - experimental design
+KW  - learning
+KW  - learning environment
+KW  - process control
+KW  - process monitoring
+KW  - process optimization
+KW  - sensor
+KW  - simulation
+KW  - Process control
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 25 August 2025; Cited By: 1
+ER  -
+
+TY  - JOUR
+AU  - Habarurema, J.B.
+AU  - Di Fuccio, R.
+AU  - Limone, P.
+TI  - Enhancing e-learning with a digital twin for innovative learning
+PY  - 2025
+T2  - International Journal of Information and Learning Technology
+VL  - 42
+IS  - 3
+SP  - 341
+EP  - 351
+DO  - 10.1108/IJILT-02-2024-0034
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-105005261541&doi=10.1108%2fIJILT-02-2024-0034&partnerID=40&md5=327acf6c798e3426046dce839338cf93
+AB  - Purpose: Digital twin enabled e-learning (DTEe-L) transitions from traditional instructional design to innovative learner-centered e-learning design. Initially, during the COVID-19 pandemic, DTEe-L demonstrated great promise for significantly optimizing e-learning environments, emerging as a suitable mechanism for innovative and active learning, making hitherto inconceivable remote and or online practical, laboratory courses and experiments a reality. The purpose of this paper is to analyze the concept of digital twin (DT) in the context of e-learning and discusses the dynamic and interpretive models that integrate DT in e-learning. Design/methodology/approach: This study investigates the concept of DT in the context of e-learning using secondary data sources. It provides dynamic and exploratory viewpoints that analyzes the development of DTEe-L, the e-learning forward-looking paradigm change and the current multitude of challenges in educational settings. Data was collected from literature sources such as peer-reviewed journals, conference proceedings, periodicals and case studies. The bibliometrics data was utilized to examine and evaluate the development of DTEe-L, as well as the influence of existing publications in academic settings in particular and the field in general. Findings: The findings indicated that DTEe-L benefits are diverse, including students’ motivation to learn, learner’s behavioral engagement and hands-on doing experiences. However, a plethora of issues such as students’ cognitive overload, technical issues related to the use of technology, difficulty assessing learning outcomes, weak social connections among students, lack of tactile experience when working in DT laboratories, among others, persist. Furthermore, the findings revealed an imbalance in the use of DT in e-learning in the literature between the fields of medical and engineering education, where experimental and practical hands-on competence is highly valued and less dependent on theoretical perspectives, and other domains where experimental laboratory and practical hands-on learning is not widely practiced. Research limitations/implications: It is argued that despite myriads of challenges, the use of DTEe-L is the future of modern e-learning education. Because previous studies concentrated on the use of DT in health sciences and engineering education, future research would broaden to include other disciplines (such as arts, social sciences and humanities) where experimental laboratory and practical hands-on learning is not widely practiced. Originality/value: The study provides academics, educational policymakers and practitioners in the fields of digital education, with the opportunities to comprehensively understand the development and the benefits of DTEe-L to improve the extant traditional e-learning platforms. The study also brings novel insights into e-learning platforms to enhance the quality of e-learning education and to increase learning motivation among e-learners. © 2025, Emerald Publishing Limited.
+KW  - Digital education
+KW  - Digital twin
+KW  - Digital twin enabled e-learning
+KW  - E-learning
+KW  - Innovative learning
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 25 August 2025; Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Jang, B.
+AU  - Jeon, M.-J.
+AU  - Lee, S.
+AU  - Jin, H.
+TI  - Neural network-based thermal model for virtual metrology of lunar orbiter temperatures via active and transfer learning
+PY  - 2025
+T2  - International Communications in Heat and Mass Transfer
+VL  - 165
+C7  - 109055
+DO  - 10.1016/j.icheatmasstransfer.2025.109055
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-105004687617&doi=10.1016%2fj.icheatmasstransfer.2025.109055&partnerID=40&md5=b58b848b3cfa9563b7d52c3f5803019d
+AB  - South Korea's Danuri lunar orbiter is currently conducting an observation mission at an altitude of 100 km above the Moon. Accurate temperature prediction is crucial for ensuring the mission's success in the harsh thermal environment of space. However, existing physical models based on finite element or difference methods are computationally intensive and challenging to fully validate due to limited ground testing opportunities. In this study, we developed a reduced order model using active learning and a deep neural network to replace traditional physical models. We then introduced a neural network model that incorporates transfer learning with real orbital temperature data to improve upon the active learning-implemented model to better predict real-world temperatures. Notably, our results demonstrate that the model fine-tuned with the flight data is the most accurate for predicting the lunar orbiter's temperature from the ground. We are confident that the proposed active and transfer learning-implemented model can also be employed to create a virtual measurement system that serves as a digital twin of the lunar orbiter and can be adapted for thermal design, analysis, and operation of new planetary spacecrafts by adjusting the input parameters. © 2025 Elsevier Ltd
+KW  - Active learning
+KW  - Lunar orbiter
+KW  - Mission orbit
+KW  - Neural network
+KW  - Thermal analysis
+KW  - Transfer learning
+KW  - Deep neural networks
+KW  - Interplanetary spacecraft
+KW  - Orbital transfer
+KW  - Active Learning
+KW  - Lunar orbiter
+KW  - Mission orbit
+KW  - Network-based
+KW  - Neural-networks
+KW  - Physical modelling
+KW  - Thermal
+KW  - Thermal model
+KW  - Transfer learning
+KW  - Virtual metrology
+KW  - Thermal modeling
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 25 August 2025; Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Norambuena, N.
+AU  - Ortega, J.
+AU  - Muñoz-La Rivera, F.
+AU  - Covarrubias, M.
+AU  - Valín Rivera, J.L.
+AU  - Ramírez, E.
+AU  - Ketterer, C.I.G.
+TI  - Integrating Digital Twins of Engineering Labs into Multi-User Virtual Reality Environments
+PY  - 2025
+T2  - Applied Sciences (Switzerland)
+VL  - 15
+IS  - 7
+C7  - 3819
+DO  - 10.3390/app15073819
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-105002279684&doi=10.3390%2fapp15073819&partnerID=40&md5=6a9222ae5068dd593f3e7c470d80d528
+AB  - This study presents a multi-user virtual reality (VR) tool designed to enhance hands-on learning in engineering education through real-time sensorized digital twins. The motivation stems from the limitations of traditional laboratory settings, such as time constraints and restricted access to physical equipment, which can hinder practical learning. The developed environment allows multiple students, wearing VR headsets, to interact simultaneously with a real-time synchronized virtual model of an engine, replicating its physical counterpart at the Mechanical Engineering Laboratory of the Pontificia Universidad Católica de Valparaíso, Chile. This novel integration of VR and digital twin technology offers students a unique opportunity to observe engine behavior in operation within a safe, controlled virtual space. By bridging theoretical knowledge with practical experience, this approach deepens understanding of complex mechanical concepts while fostering the development of key technical skills. Additionally, the use of real-time data visualization and digital twins provides a safer, more interactive, and efficient alternative to traditional laboratory practices, overcoming constraints like time limitations and equipment availability. This innovative method introduces students to Industry 4.0 principles, encouraging data-driven analysis and informed decision making. © 2025 by the authors.
+KW  - combustion-less engine
+KW  - digital twins
+KW  - education
+KW  - engineering education
+KW  - Industry 4.0
+KW  - IoT
+KW  - real-time sensing
+KW  - virtual reality
+KW  - Behavioral research
+KW  - Engineering education
+KW  - Virtual environments
+KW  - Combustion-less engine
+KW  - Hands-on learning
+KW  - IoT
+KW  - Learning in engineering
+KW  - Multiusers
+KW  - Real time sensing
+KW  - Real- time
+KW  - Time constraints
+KW  - Virtual reality tools
+KW  - Virtual-reality environment
+KW  - Students
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 25 August 2025; Cited By: 2
+ER  -
+
+TY  - JOUR
+AU  - Lu, K.
+AU  - Zheng, B.
+AU  - Shi, J.
+AU  - Xu, Y.
+TI  - Automated optimal parking slot prediction using deep learning and digital twin technology aided parking space management for material science application
+PY  - 2025
+T2  - Alexandria Engineering Journal
+VL  - 122
+SP  - 229
+EP  - 242
+DO  - 10.1016/j.aej.2025.03.019
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-86000519794&doi=10.1016%2fj.aej.2025.03.019&partnerID=40&md5=a83d4e9d7e2cdb0df84ff2a367987a2c
+AB  - As vehicles on the roadside increase exponentially, drivers find it complicated to recognize parking areas. This makes it essential to identify an optimized model for resolving the vehicle-parking issues. In other words, a practical model must be implemented to identify outdoor parking slot status using sensing material or vehicles. For this purpose, the proposed technique aims at presenting an automated optimal parking slot detection and management using Active Learning (AL) and deep learning-based prediction model. The input images are retrieved from the input image dataset (PkLot). Then, the preprocessing stage is carried out by resizing, image enhancement, background subtraction, Hough transform, and a mixture of Gaussians. Improved Pre-trained U-Net-based feature extraction is carried out. The optimal features are selected using the Modified chaotic BAT optimization approach. The classification is finally done using Deep Cascaded Fine-tuned Active Learning and Inception V3 technique. The results are contrasted with the suggested approach and existing methods. The detected result is stored in the server regarding the real-time availability of slots. Then, digital twin technology manages parking space management to ensure slot availability. The assessment of performance is evaluated for varied metrics like mean accuracy, sensitivity, specificity, F1-score, recall, precision, FNR, and FPR and outcomes are compared with existing methodologies to validate the efficacy of proposed model. © 2025
+KW  - Deep cascaded fine-tuned active learning
+KW  - Digital twin technology
+KW  - Improved pre-trained-based feature extraction
+KW  - Inception-based prediction technique
+KW  - Modified chaotic BAT optimization
+KW  - Parking slot detection
+KW  - Adaptive boosting
+KW  - Classification (of information)
+KW  - Data mining
+KW  - Deep learning
+KW  - Hough transforms
+KW  - Image enhancement
+KW  - Information management
+KW  - Parking
+KW  - Active Learning
+KW  - Chaotics
+KW  - Deep cascaded fine-tuned active learning
+KW  - Digital twin technology
+KW  - Features extraction
+KW  - Improved pre-trained-based feature extraction
+KW  - Inception-based prediction technique
+KW  - Modified chaotic BAT optimization
+KW  - Optimisations
+KW  - Parking slot detection
+KW  - Prediction techniques
+KW  - Active learning
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 25 August 2025; Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Chabanet, S.
+AU  - Bril El-Haouzi, H.
+AU  - Thomas, P.
+TI  - Active learning confidence measures for coupling strategies in digital twins integrating simulation and data-driven submodels
+PY  - 2025
+T2  - Simulation Modelling Practice and Theory
+VL  - 140
+C7  - 103092
+DO  - 10.1016/j.simpat.2025.103092
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85218250099&doi=10.1016%2fj.simpat.2025.103092&partnerID=40&md5=4c76364735dbe2e40d6b7f82b1e386a1
+AB  - Many challenges have been raised in the scientific literature regarding the development of digital twins that can predict future states of production processes from data streams. This study is concerned with the coordination of several of their submodels to balance precision with computational requirements. A method to use stream-based active learning sampling strategies to couple two such models is proposed. Both models perform the same prediction task but have different advantages and disadvantages. The first is a simulation model that is supposed to have a high fidelity level, but to be slow. The second is a machine learning model, which is fast but less accurate and requires many labeled examples to be trained on, which may require a lot of time and effort to gather. The objective is to leverage confidence measures in the predictions of the machine learning model. These measures are used to couple the two models and take advantage of their respective strengths. In particular, the aim is to reduce the digital twin's average prediction error while operating under limited computational capacity. Moreover, an application within the sawmill industry and numerical experiments are presented. © 2025 Elsevier B.V.
+KW  - Active learning
+KW  - Data-driven models
+KW  - Digital twin
+KW  - Machine learning
+KW  - Prediction confidence
+KW  - Sawmill
+KW  - Simulation
+KW  - Adversarial machine learning
+KW  - Contrastive Learning
+KW  - Digital elevation model
+KW  - Federated learning
+KW  - Prediction models
+KW  - Active Learning
+KW  - Confidence Measure
+KW  - Data driven
+KW  - Data-driven model
+KW  - Machine learning models
+KW  - Machine-learning
+KW  - Prediction confidence
+KW  - Scientific literature
+KW  - Simulation
+KW  - Submodels
+KW  - Active learning
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 25 August 2025; Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Li, J.
+AU  - Li, H.
+TI  - Digital Twinning Transformation for Microwave Engineering Education: A Case Study of Student-centered Learning in Module States of the Arts in Liquid Crystals Millimeter-wave Technology for 6G
+PY  - 2025
+T2  - Engineering Letters
+VL  - 33
+IS  - 8
+SP  - 3119
+EP  - 3128
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-105013098992&partnerID=40&md5=34771934a8592dec4be682b671bdae91
+AB  - The pervasive use of electronic design automation (EDA) suites is not solely dedicated to state-of-the-art microchips and nanosheet devices designed for Interconnect 3.0, but is also extensively deployed for more macroscopic electromagnetic analysis that profoundly influences the fifth-generation (5G) communications underway and beyond, e.g., the sixth-generation (6G) one that fuses communication and sensing in a highly integrated manner and featuring ubiquitous connectivity. High-frequency structure simulator (HFSS) is one of the most prominent EDA tools in this domain, but due to its closed-source nature, its value in engineering education and student-centered learning has largely been underexplored. To this end, this study investigates the use of EDA-assisted electromagnetic (EM) simulation tools, focusing on emerging liquid crystal (LC)-based microwave (MW) reconfigurable technologies, in the context of teaching an undergraduate module titled States of the Arts in Liquid Crystals Millimeter-wave Technology for 6G. Eleven in-project undergraduate students across diverse academic backgrounds participated in the case study, together with the lecture and a postgraduate research student. The novelty of this approach lies in its development of a self-driven framework to identify and address the limitations of these computational tools in various application scenarios. These educational innovations form a core part of the broader reform project carried out at Beijing Institute of Technology, aimed at integrating digital twinning and digital transformation strategies into higher education. Marrying EDA vulnerability studies with LC-based computational electromagnetics offers an extended educational pathway toward 6G technologies and opens new opportunities in liquid crystal microwave technology and beyond. © 2025, International Association of Engineers. All rights reserved.
+KW  - 6G education
+KW  - 6G networks
+KW  - computational electromagnetics
+KW  - digital transformation
+KW  - digital twin
+KW  - engineering education
+KW  - higher education
+KW  - liquid crystal education
+KW  - microwave engineering
+KW  - student-centered learning
+KW  - Arts computing
+KW  - Digital devices
+KW  - Digital twin
+KW  - E-learning
+KW  - Education computing
+KW  - Electromagnetic simulation
+KW  - Electronic design automation
+KW  - Engineering education
+KW  - Liquid crystals
+KW  - Microwave technology
+KW  - Millimeter wave devices
+KW  - Millimeter waves
+KW  - Students
+KW  - Twinning
+KW  - 6g education
+KW  - 6g network
+KW  - Digital transformation
+KW  - Electromagnetics
+KW  - High educations
+KW  - Liquid crystal education
+KW  - Liquid-crystals
+KW  - Microwave engineering
+KW  - State of the art
+KW  - Student centred learning
+KW  - Computational electromagnetics
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 25 August 2025; Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Chen, S.
+AU  - Thompson, A.
+AU  - Dodwell, T.
+AU  - Hallett, S.
+AU  - Belnoue, J.
+TI  - A comparison between robust design and digital twin approaches for Non-Crimp fabric (NCF) forming
+PY  - 2025
+T2  - Composites Part A: Applied Science and Manufacturing
+VL  - 193
+C7  - 108864
+DO  - 10.1016/j.compositesa.2025.108864
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-105001005979&doi=10.1016%2fj.compositesa.2025.108864&partnerID=40&md5=d020c7ac4133b06d90ba8ace7baa6309
+AB  - There is growing interest in adopting digital twin systems within the field of composites manufacturing. However, given the current limitations in measuring variability and accurately simulating complex defects, it remains questionable as to whether the high costs of building a digital twin are justified. In this paper, a case study is conducted on simulation-driven optimisation of the forming of non-crimp fabric (NCF). A robust design strategy (a one-time optimisation that is robust to variabilities of the material and process) is compared with a digital twin approach (active control is conducted based on real-time optimisation, accounting for in-situ measurements of variabilities). An optimisation method based on a Gaussian process (GP) surrogate model, active learning, dimension reduction and gradient boosting is developed. This method enables the optimisation of complex forming processes with a very small dataset, built from large simulation models. Both strategies significantly reduce the wrinkling level and improve process robustness. © 2025 The Author(s)
+KW  - Digital Twin
+KW  - Gaussian Process
+KW  - Non-Crimp Fabric Forming
+KW  - Variability
+KW  - Complex defects
+KW  - Composite manufacturing
+KW  - Current limitation
+KW  - Fabric forming
+KW  - Gaussian Processes
+KW  - Non-crimp fabric forming
+KW  - Non-crimp fabrics
+KW  - Optimisations
+KW  - Robust designs
+KW  - Variability
+KW  - Gaussian distribution
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 25 August 2025; Cited By: 0
+ER  -
+

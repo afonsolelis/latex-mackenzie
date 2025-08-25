@@ -1,0 +1,4 @@
+string: TS=("digital twin*") AND TS=("CEP" OR "complex event processing")
+web: 4
+scopus: 4
+filtro: article
