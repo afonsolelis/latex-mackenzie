@@ -215,3 +215,4 @@ Esta filtragem foi realizada no arquivo `buscas_1a4_wos_scopus_dedup.ris` conten
 ---
 
 **Nota:** Esta filtragem foi realizada seguindo rigorosamente os critérios estabelecidos no protocolo Kitchenham, com foco em artigos que oferecem suporte teórico, metodológico ou tecnológico para a aplicação de Gêmeos Digitais em avaliação de Project-Based Learning.
+

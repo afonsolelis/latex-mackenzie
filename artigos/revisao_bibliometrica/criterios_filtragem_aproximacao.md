@@ -153,3 +153,4 @@ Esta revisão sistemática tem como objetivo mapear a produção científica na 
 ---
 
 **Referência:** Kitchenham, B. (2007). Guidelines for performing Systematic Literature Reviews in Software Engineering. Technical Report EBSE-2007-01, Keele University.
+
