@@ -1,4 +1,0 @@
-string: TS=("project-based learning" OR "project based learning" OR "project-based learn*" OR "project based learn*" OR "problem-based learning" OR "inquiry-based learning" OR "experiential learning" OR "experiential education" OR "active learning" OR "hands-on learning" OR "challenge-based learning" OR "place-based education" OR "activity-based learning" OR "student-centered learning" OR "inquiry based learning" OR "self-directed learning") AND TS=("digital twin*")
-web: 82
-scopus: 42
-filtro: article
